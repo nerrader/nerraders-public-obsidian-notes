@@ -1,0 +1,1 @@
+will also talk abt acidity and basisity

@@ -1,0 +1,1 @@
+These attacks are where someone that has physical access to your device, performs a hard reset (typically by a specialized USB drive) to extract sensitive information (like encryption keys) from the system's RAM.

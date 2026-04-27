@@ -1,0 +1,1 @@
+CDN, Centralized one server, P2P, PCDN

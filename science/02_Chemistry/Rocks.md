@@ -1,0 +1,1 @@
+will be talking about the 3 different types of rock, the rock cycle, weathering, erosion
