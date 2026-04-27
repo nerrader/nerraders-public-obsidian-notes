@@ -1,8 +1,8 @@
 ---
 Subject: Licenses
 ---
-
-> [!INFO] This note will be talking in depth about mostly the open source licenses that most FOSS projects use on GitHub.
+> [!INFO] 
+> This note will be talking in depth about mostly the open source licenses that most FOSS projects use on GitHub.
 
 There are two types of these licenses, permissive and copyleft:
 
