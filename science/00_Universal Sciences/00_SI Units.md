@@ -9,8 +9,6 @@ Subject: Universal Sciences
 
 In the SI system, there are seven base units, the other units are just derived from those main seven.
 
-The seven base units are as follows:
-
 | Quantity            | Unit Name | Symbol |
 | ------------------- | --------- | ------ |
 | Length              | Meters    | m      |
@@ -41,10 +39,10 @@ Because scientists deal with things that are incredibly small (atoms) and incred
 > 
 > You know about Megabytes and Gigabytes? Those things that show you how much data a file is taking on your computer? Those things are actually derived from those metric prefixes.
 > 
-> Byte is a unit of storage, and so **Mega**Byte (MB) is equilavent to 1,000,000 (million) bytes, 
+> Byte is a unit of storage, and so **Mega**Byte (MB) is equivalent to 1,000,000 (million) bytes, 
 > and one **Giga**Byte (GB) is equivalent to 1,000,000,000 (billion) bytes.
 > 
-> Now, I am aware that computers use the binary versions (MiB and GiB) instead of the standard metric counterparts, but its still a good example right
+> Now, I am aware that computers use the binary versions (MiB and GiB) instead of the standard metric counterparts, but its still a good example.
 > 
 > Got it?
 
@@ -67,7 +65,7 @@ There are also some units derived from the base SI Units. The most common derive
 
 > [!WARNING]+ The "Standard Unit" Trap
 > 
-> In most physics equations (like $F=ma$), you **must** convert your values to the base SI units first.
+> In most physics equations (like $\sum F=ma$), you **must** convert your values to the base SI units first.
 > 
 > - If the problem gives you **grams**, convert to **kg**.
 >     
@@ -101,7 +99,7 @@ A vector is a value that requires both a **number** and a **specific direction**
 >- **Acceleration ($a$):** $9.8 \text{ m/s}^2 \text{ Downward}$    
 >- **Force ($F$):** $50 \text{ N}$ pushing **Right**
 
-> This shows that speed and velocity are different as one requires a direction and one doesn't.
+This shows that speed and velocity are different as velocity is a vector quantity and requires a direction, while speed is a scalar quantity and does not require a direction.
 
 > [!TIP] The "Negative" Sign in Vectors
 > 
@@ -109,7 +107,7 @@ A vector is a value that requires both a **number** and a **specific direction**
 > 
 > As an example:
 >- **Scalar:** Time cannot be negative (usually).
->- **Vector:** $-10 \text{ m/s}$ simply means you are moving $10 \text{ m/s}$ in the **opposite** direction of your "Positive" axis.
+>- **Vector:** $-10 \text{ m/s}$ simply means you are moving $10 \text{ m/s}$ in the **opposite** direction of your positive axis.
 
 
 

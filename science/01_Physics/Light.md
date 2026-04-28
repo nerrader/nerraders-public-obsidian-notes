@@ -17,11 +17,9 @@
 | Mirror | <span style="color: green">high</span> | <span style="color: red">low</span> | <span style="color: red">low</span>
 ### Material Transparency
 
-**Transparent:** Materials with this opacity allow light to pass through without any issues, effectively transmitting it.
-
-**Translucent:** Materials like these scatter the light rays in various directions, transmitting it but leaving behind a usually very blurry image.
-
-**Opaque:** Light cannot pass through these materials, and it usually forms a shadow to show the absence of light in that area.
+- **Transparent:** Materials with this opacity allow light to pass through without any issues, effectively transmitting it.
+- **Translucent:** Materials like these scatter the light rays in various directions, transmitting it but leaving behind a usually very blurry image.
+- **Opaque:** Light cannot pass through these materials, and it usually forms a shadow to show the absence of light in that area.
 ### The Speed of Light ($c$)
 
 The speed of light is a **constant**, and it is extremely fast.
@@ -37,20 +35,14 @@ $c = 299,792,458m/s$ or $c \approx 3*10^8m/s$
 >- **Proxima Centauri:** You see it as it was **4.2 years ago**.
 
 ### Reflection and Refraction
-
 Reflection is reflection, self explanatory no explanation needed.
+The law of reflection states that: $\theta_i = \theta_r$ (angle of incidence = angle of reflection), so the angles are always equal to each other.
 
-The law of reflection states that: $\theta_i = \theta_r$ (angle of incidence = angle of reflection)
- 
- So they are always equal.
+**Specular reflection** is is the mirror-like reflection of light from a smooth surface, where parallel incident rays are reflected in a single, predictable direction. This is the reason why you can see reflections on bodies of water.
 
-**Specular reflection** is is the mirror-like reflection of light from a smooth surface, where parallel incident rays are reflected in a single, predictable direction.
+**Diffuse reflection** occurs when light strikes a rough surface, causing the rays to scatter in many different directions, which forms a more blurry image than the usual specular reflection.
 
-Specular reflection is the reason why you can see the upside down reflection of things in the background when you look down at lakes or just bodies of water.
-
-**Diffuse reflection** occurs when light strikes a rough or matte surface, causing the rays to scatter in many different directions, which forms a more blurry image.
-
-Refraction is the bending of light when it passes from one medium to another, like glass to air or air to glass. This is due to the fact that the speed of light changes depending on the optical density, it slows down in mediums like water and speeds up in air.
+**Refraction** is the **bending of light** when it passes from one medium to another, like glass to air or air to glass. This is due to the fact that the speed of light changes depending on the optical density, it slows down in mediums like water and speeds up in air.
 
 However, there is one exception, if the light passes through at a $90^\circ$ angle, then it will not bend.
 ### The Electromagnetic Spectrum
@@ -71,5 +63,3 @@ Higher regions = Higher Frequency ($f$), Shorter Wavelength ($\lambda$), and Hig
 
 
 ![[Pasted image 20260421165236.png]]
-
-If you notice, the visible spectrum is only a tiny amount of what is actually the entirety of the electromagnetic spectrum.

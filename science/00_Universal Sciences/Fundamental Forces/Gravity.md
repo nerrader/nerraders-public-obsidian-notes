@@ -1,10 +1,9 @@
 ---
 Subject: Universal Sciences
 ---
-
 > [!ABSTRACT] Definition
 > 
-> Gravity ($F_g$) is a universal force that pulls two objects with mass towards each other. Gravity is one of the **[[The Four Fundamental Forces|Four Fundamental Forces of Nature]]**.
+> Gravity ($F_g$) is a universal force that pulls two objects with mass towards each other. Gravity is one of the **[[00_Fundamental Forces MOC|Four Fundamental Forces of Nature]]**.
 
 ### The Mechanics of Attraction
 

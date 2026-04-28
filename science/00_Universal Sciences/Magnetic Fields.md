@@ -5,7 +5,7 @@ Subject: "[Universal Sciences, Physics]"
 
 > [!ABSTRACT] Definition
 > 
->  A magnetic field is the region of space surrounding a magnet where magnetic forces can be detected. They are caused by moving electric charges. It is a manifestation of the **[[Electromagnetism|Electromagnetic Force]]**, which is one of the [[Four Fundamental Forces of Nature]]
+>  A magnetic field is the region of space surrounding a magnet where magnetic forces can be detected. They are caused by moving electric charges. It is a manifestation of the **[[Electromagnetism|Electromagnetic Force]]**, which is one of the [[00_Fundamental Forces MOC|Four Fundamental Forces of Nature]]
 
 ---
 ### Field Lines
