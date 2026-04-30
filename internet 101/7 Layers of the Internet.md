@@ -12,7 +12,7 @@ The Application Layer serves as the interface between the end-user applications 
 
 Key functionalities of the Application Layer include resource sharing, remote file access, and network management.
 
-Examples of protocols operating at the Application Layer include [[Internet Protocols#HTTP|The HTTP Protocol]] for web browsing, [[Internet Protocols#FTP (File Transfer Protocol)|File Transfer Protocol (FTP)]] for file transfers, [[Internet Protocols#SMTP (Simple Mail Transfer Protocol)|Simple Mail Transfer Protocol (SMTP)]] for email services, and [[DNS Addresses and Servers|Domain Name System (DNS)]] for resolving domain names to [[Internet Protocols#IP (Internet Protocol)|IP addresses]]. 
+Examples of protocols operating at the Application Layer include [[Internet Protocols#HTTP (Hypertext Transfer Protocol)|The HTTP Protocol]] for web browsing, [[Internet Protocols#FTP (File Transfer Protocol)|File Transfer Protocol (FTP)]] for file transfers, [[Internet Protocols#SMTP (Simple Mail Transfer Protocol)|Simple Mail Transfer Protocol (SMTP)]] for email services, and [[DNS Addresses and Servers|Domain Name System (DNS)]] for resolving domain names to [[Internet Protocols#IP (Internet Protocol)|IP addresses]]. 
 
 These protocols ensure that user applications can effectively communicate with each other and with servers over a network.
 

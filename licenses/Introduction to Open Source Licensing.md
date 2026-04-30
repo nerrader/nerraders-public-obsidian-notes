@@ -13,7 +13,6 @@ For open source projects, you will usually come across licenses that fall into t
  Permissive licenses are designed to provide maximum freedom to use, distribute, or modify software with minimal restrictions.
 - Examples: [[MIT License]], [[Apache License 2.0]]
 These licenses are best for libraries and tools meant for wide adoption for everyone to use.
-
 ### Copyleft Licenses
 Copyleft licenses are designed that you can use, modify, or distribute the code, but you must make the project open source, or give the source code to the original author. 
 - **Examples:** [[GPL License v3.0]], AGPL, LGPL.
