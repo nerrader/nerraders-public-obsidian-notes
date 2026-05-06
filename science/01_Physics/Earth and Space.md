@@ -1,6 +1,7 @@
 ---
 Subject: "[Physics, Astrology]"
 ---
+
 > [!ABSTRACT]+ Introduction
 > 
 > Earths movement or orbit around the sun or the solar system, is defined by two cycles: A daily rotation of $360^\circ$ and an annual orbit around the sun. While it feels like we are standing still, Earth is in constant motion.

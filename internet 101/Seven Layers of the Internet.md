@@ -1,3 +1,4 @@
+
 > [!ABSTRACT] Introduction to the OSI Model
 > 
 > The **Open Systems Interconnection (OSI)** model describes **seven layers** that computer systems use to communicate over a network. With each layer having their own specific responsibilities.
@@ -8,7 +9,7 @@
 
 ## 7. Application Layer
 
-The Application Layer serves as the interface between the end-user applications and the underlying network services. This layer provides protocols and services that are directly utilized by end-user applications to communicate across the network. 
+The Application Layer serves as the interface between the end-user applications and the underlying network services. This layer provides protocols and services that are directly utilized by end-user applications to communicate across the network.
 
 Key functionalities of the Application Layer include resource sharing, remote file access, and network management.
 

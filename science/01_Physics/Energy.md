@@ -1,4 +1,6 @@
+
 > [!ABSTRACT] Definition
+
 > **Energy** is defined as the quantitative property or capacity of a physical system to **do work** or cause change.
 > 
 Modern civilization is possible because people have learned how to change energy from one form to another and then use it to do work. We use energy for a variety of things, such as transportation, cooking and refrigerating food, lighting our homes and offices, manufacturing products, and even sending astronauts into space.
