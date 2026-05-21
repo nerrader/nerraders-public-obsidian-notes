@@ -1,6 +1,7 @@
 ---
 Subject: Universal Sciences, Physics
 ---
+
 > [!ABSTRACT] Summary
 > 
 > **Mass** is the amount of matter in an object, while **Weight** is the gravitational force acting on that mass. They are related by the formula for [[Newton's Three Laws of Motion#**2. Newton's Second Law (Law of Force and Acceleration) ** | Newton's Second Law]] $(\sum F = ma)$

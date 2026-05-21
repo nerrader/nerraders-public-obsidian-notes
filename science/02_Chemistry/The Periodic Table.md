@@ -31,7 +31,7 @@ Each element tile usually contains:
 
 There are three main types of elements in the periodic table: metals, semimetals, and nonmetals.
 ### Metals
-Metals make up the vast majority of the periodic table.
+Metals make up the vast majority of the periodic table. Their uniqueness makes it so that only metals may replace the function of other metals. Most metals also react with oxygen (oxidation), most halogens and other non-metals.
 
 - **Physical Properties:** They are generally shiny, extremely dense, [[Matter States and Changes#1. Solid|solid]] at room temperature, have high melting and boiling points, malleable, and ductile.
 - **Electrical Properties:** Excellent conductors of both electricity and heat because they have lots of free electrons that can move easily.
@@ -41,7 +41,7 @@ Metals make up the vast majority of the periodic table.
 Semi-metals or metalloids form the "staircase" separating the metals from the non-metals, and **their properties are a hybrid of both.**
 
 - **Physical Properties:** They usually look metallic and shiny, but they are brittle like non-metals.
-- **Electrical Properties:** They are s**emiconductors**. They don't conduct electricity as well as metals, but they do it way better than non-metals. You can also control how they conduct electricity by changing their temperature or mixing in tiny amounts of other elements. This is also the primary reason semiconductors are used instead of regular conductors.
+- **Electrical Properties:** They are **semiconductors**. They don't conduct electricity as well as metals, but they do it way better than non-metals. You can also control how they conduct electricity by changing their temperature or mixing in tiny amounts of other elements. This is also the primary reason semiconductors are used instead of regular conductors.
 - **Chemical Behavior:** Depending on who they are reacting with, they can behave like a metal or a non-metal.
 
 ### Non-Metals
