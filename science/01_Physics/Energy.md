@@ -1,6 +1,5 @@
 
 > [!ABSTRACT] Definition
-
 > **Energy** is defined as the quantitative property or capacity of a physical system to **do work** or cause change.
 > 
 Modern civilization is possible because people have learned how to change energy from one form to another and then use it to do work. We use energy for a variety of things, such as transportation, cooking and refrigerating food, lighting our homes and offices, manufacturing products, and even sending astronauts into space.
@@ -108,4 +107,6 @@ $$P = \frac{W}{t}$$
 
 > [!abstract] Summary of Energy, Work, and Power
 > 
-> **Energy** is the fundamental property of a system representing its capacity to perform work or initiate change. **Work** is the mechanical process of transferring that energy by applying force over a displacement ($W = F \cdot d$). **Power** is the temporal rate at which that work is executed or energy is transformed ($P = W/t$). While energy is a state quantity, work and power describe the dynamics of its transition.
+> - **Energy** is the fundamental property of a system representing its capacity to perform work or initiate change.
+>  - **Work** is the mechanical process of transferring that energy by applying force over a displacement ($W = F \cdot d$). 
+> - **Power** is the temporal rate at which that work is executed or energy is transformed ($P = W/t$). While energy is a state quantity, work and power describe the dynamics of its transition.
