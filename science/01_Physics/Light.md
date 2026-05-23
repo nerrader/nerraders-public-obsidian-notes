@@ -8,7 +8,7 @@
 > - Absorption: Light energy is taken in, causing particles to vibrate faster and generate **heat**.
 > - Transmission: Light passes through the material.
 > 
-> Everything can either reflect, absorption, or transmit light energy. Its just that some materials reflect or absorb more than the others.
+> Everything can either reflect, absorption, or transmit light [[Energy|energy]]. Its just that some materials reflect or absorb more than the others.
 
 > [!EXAMPLE]-
 | Material | Reflection Level  | Absorption Level | Transmission Level

@@ -1,3 +1,4 @@
+
 > [!ABSTRACT] Introduction to Corrosion
 > 
 > Corrosion is a natural process that degrades polished metals into oxides, sulfides, or hydroxides via chemical or electrochemical reactions, usually resulting in the loss of favorable properties.

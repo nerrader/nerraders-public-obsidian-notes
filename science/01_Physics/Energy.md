@@ -12,7 +12,7 @@ This principle is a fundamental law of physics and is mathematically expressed a
 
 > [!abstract] Energy Transformation and Efficiency
 > 
-> During the transformation process of energy, it is usually converted to other non useful forms (like heat from friction). **Efficiency** measures how much of the input energy matches the desired output energy.
+> During the transformation process of energy, it is usually converted to other non-useful forms (like heat from friction). **Efficiency** measures how much of the input energy matches the desired output energy.
 > 
 > It can be calculated using this formula: 
 > 
@@ -27,7 +27,7 @@ Most forms of energy can be categorized into two primary states:
 
 - #### Potential Energy
 
-Potential energy is just referring to energy that is stored. Potential energy depends on an object's mass and its **height** above a reference point (usually the ground or sea level).
+Potential energy is just **referring to energy that is stored.** Potential energy depends on an object's mass and its height above a reference point (usually the ground or sea level).
 
 $$PE = mgh$$
 
@@ -52,7 +52,7 @@ The other energy types we are about to discuss are just derived from these two.
 
 The sum of potential and kinetic energy in a system. Note that this will usually stay constant while the kinetic and potential energy values are changing.
 
-- **Example**: A ball rolling down a hill has a lot of kinetic energy, because its using the stored gravitational potential energy from being high up  to convert into kinetic energy.
+- **Example**: A ball rolling down a hill has a lot of kinetic energy, because its using the stored gravitational potential energy from being high up to convert into kinetic energy.
   
 Even though kinetic and potential energy are the two main ones, mechanical energy is not the same as the total amount of energy nor the internal energy in a system.
 ### Chemical Energy (Potential)
@@ -77,10 +77,10 @@ Electromagnetic energy that travels in transverse waves.
 Learn more about units and SI units [[00_SI Units|here.]]
 
 > [!INFO]+ **Mechanical Energy vs Internal Energy vs Total Energy**
-> - **Mechanical Energy:** The sum of an object's **visible** **movement and position** 
+> - **Mechanical Energy:** The sum of an object's visible movement and position 
 >   ($KE_{large} + PE_{large}$)
->- **Internal Energy ($U$):**  The hidden energy of atoms vibrating (**Kinetic**) and their molecular bonds (**Potential**).  
->- **Total Energy ($E$):** **Mechanical + Internal**.
+>- **Internal Energy ($U$):**  Microscopic Kinetic + Microscopic Potential
+>  $$\text{Total Energy } (E) = \underbrace{(KE_{\text{large}} + PE_{\text{large}})}_{\text{Mechanical Energy}} + \underbrace{(KE_{\text{micro}} + PE_{\text{micro}})}_{\text{Internal Energy } (U)}$$
 
 ---
 ## Work and Power
@@ -94,7 +94,7 @@ $$W = F \cdot d$$
 - **$d$ (Displacement):** How far the object moved (Meters).
 - **Unit:** Joule ($J$). _Notice that 1 Joule of Work is exactly equal to 1 Joule of Energy used._
 
-This means you can push an object as hard as you can, and if its too heavy so it doesn't move, physics still says you did no work at all, as displacement is zero.
+This means you can push an extremely heavy object as hard as you can but it still didn't move, physics still says you did no work at all, as displacement is zero.
 ### **Power ($P$)**
 
 **Power** in physics is defined as the **rate at which work is done** or the **rate at which energy is transferred or converted**. It quantifies how quickly energy is used, delivered, or transformed over a specific time interval.
@@ -110,3 +110,9 @@ $$P = \frac{W}{t}$$
 > - **Energy** is the fundamental property of a system representing its capacity to perform work or initiate change.
 >  - **Work** is the mechanical process of transferring that energy by applying force over a displacement ($W = F \cdot d$). 
 > - **Power** is the temporal rate at which that work is executed or energy is transformed ($P = W/t$). While energy is a state quantity, work and power describe the dynamics of its transition.
+
+## Related Topics
+
+* [[Thermal Energy Transfer Methods]]
+* [[Light]]
+* [[Electricity]]

@@ -1,6 +1,7 @@
 ---
 Subject: Licenses
 ---
+
 > [!ABSTRACT] Introduction to Open Source Licensing
 > 
 > **Open source licenses** are legal documents that grant users the right to use, modify, and share software code, which is otherwise restricted by default copyright laws.
