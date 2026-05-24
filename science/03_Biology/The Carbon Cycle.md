@@ -1,7 +1,6 @@
-
 > [!ABSTRACT]
-> 
-> - The **Carbon Cycle** shows the process of recycling carbon. 
+>
+> - The **Carbon Cycle** shows the process of recycling carbon.
 > - It is the process by which carbon atoms, move through the Earth’s atmosphere, oceans, soil, and living organisms.
 > - Because only a tiny number of atoms reach the Earth from space, our planet is called a closed system. This means the Earth does not gain or lose carbon. But carbon does move constantly.
 
@@ -18,6 +17,7 @@ Carbon moves between areas of earth via specific chemical and biological process
 | **Ocean Exchange** | Atmosphere $\leftrightarrow$ Ocean     |
 
 There are two different methods that the Earth processes, transforms, and transports carbon.
+
 ### Biological Path
 
 This path focuses on how carbon moves on living systems via regulated enzymatic reactions. Plants and algae fix carbon into organic molecules. When organisms respire or die, this carbon is returned to the environment.

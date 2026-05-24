@@ -1,7 +1,7 @@
-
 > [!ABSTRACT] Introduction to Thermal Energy Transfer Methods
-> 
+>
 > There are three main ways to transfer [[Energy|energy]] via heating:
+>
 > - Conduction
 > - Convection
 > - Radiation
@@ -18,7 +18,8 @@
 
 - Warmer liquids rise to the top due to their lower density.
 - Colder liquids sink to the bottom due to their higher density.
-- This creates currents that distribute thermal energy. 
+- This creates currents that distribute thermal energy.
+
 ## Radiation
 
 - All things produce infrared radiation.
@@ -27,6 +28,7 @@
 - Darker surfaces are better absorbers and emitters of infrared radiation than light, shiny surfaces.
 - Spread out in a straight line but can be focused.
 - This involves the transfer of energy via electromagnetic waves.
+
 ## Evaporation
 
 - It can occur at any temperature, though fastest at its boiling point.

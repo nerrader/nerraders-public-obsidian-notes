@@ -1,11 +1,10 @@
-
 > [!ABSTRACT] Introduction
-> 
-> Organisms are living things who carry out seven key processes: movement, sensitivity, respiration, growth, nutrition, excretion, reproduction.
->   
-> Unicellular organisms are organisms that only have one cell, these organisms are usually called microorganisms due to its small size, and you usually need a microscope to see them
-> 
-> On the other hand, multicellular organisms have multiple cells that work together to form tissues, organs, and organ systems, to make a singular unified organism.
+>
+> Organisms are living things who carry out **seven key processes**: movement, sensitivity, respiration, growth, nutrition, excretion, reproduction.
+>
+> Unicellular organisms are organisms that only have **one cell**, these organisms are usually called **microorganisms** due to its small size, and you usually need a microscope to see them
+>
+> On the other hand, multicellular organisms have **multiple cells** that work together to form tissues, organs, and organ systems, to make a singular unified organism.
 
 ## Kingdoms
 

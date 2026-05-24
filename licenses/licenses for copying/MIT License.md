@@ -1,6 +1,7 @@
 ---
 Subject: Licenses
 ---
+
 MIT License
 
 Copyright (c) {year} {fullname/githubusername}

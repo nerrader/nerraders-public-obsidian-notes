@@ -1,6 +1,5 @@
-
 > [!ABSTRACT] Introduction to Corrosion
-> 
+>
 > Corrosion is a natural process that degrades polished metals into oxides, sulfides, or hydroxides via chemical or electrochemical reactions, usually resulting in the loss of favorable properties.
 
 ## Rusting (Iron & Steel Only)
@@ -13,7 +12,7 @@ Unlike other metals, rust is fragile and can easily break off, making rusting mo
 
 Corrosion is not only exclusive to iron, but metals like copper and silver undergo corrosion as well, but instead of changing color and becoming more fragile, they instead change color and form a protective surface skin.
 
-Take copper as an example, it slowly oxidizes to carbon carbonate when exposed to air and moisture, which then creates a greenish later called patina. 
+Take copper as an example, it slowly oxidizes to carbon carbonate when exposed to air and moisture, which then creates a greenish later called patina.
 
 The Statue of Liberty is made out of copper, and is actually a shiny penny color underneath, but due to corrosion, it now looks like more of a greenish-blue, protecting the copper from further damage.
 
