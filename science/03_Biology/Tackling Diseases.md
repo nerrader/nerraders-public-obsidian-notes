@@ -7,4 +7,4 @@ There are two types of vaccines, one injects a dead version of the virus so the 
 
 Both these approaches let the immune system recognize the virus and take it down, which also prevents other attempts of the virus coming back.
 
-Pathogen is an agent that causes disease.
+[[Pathogens]] are agents that causes disease.

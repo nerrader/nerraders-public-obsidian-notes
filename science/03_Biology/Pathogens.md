@@ -11,7 +11,7 @@ There are **five main types** of pathogens:
 
 - **Bacteria:** Single-celled prokaryotes that can cause diseases like tuberculosis, pneumonia, and foodborne illnesses. 
 - **Viruses:** Microscopic agents that hijack host cells to replicate, causing conditions ranging from the common cold to HIV/AIDS.
-- **Fungi:** Eukaryotic organisms that can cause infections such as thrush, **ringworm**, and severe meningitis in vulnerable individuals. 
+- [[Microscopic Fungi|Fungi]]: Eukaryotic organisms that can cause infections such as thrush, **ringworm**, and severe meningitis in vulnerable individuals. 
 - **Parasites:** Include **protozoa** (single-celled eukaryotes like those causing malaria) and **helminths** (worms like tapeworms and roundworms). 
 - **Prions and Viroids:** Prions are misfolded proteins causing neurodegenerative diseases, while viroids are small RNA molecules that primarily infect plants.
 
@@ -54,10 +54,10 @@ There are **six main types of vaccines**, each designed to trigger an immune re
   
 - **Viral vector vaccines** use a modified, harmless virus to deliver genetic instructions into cells. Examples include certain **Ebola** vaccines and the **AstraZeneca** and **Johnson & Johnson** COVID-19 vaccines.
 
-### Pearson randomly talks about ringworm specifically for some reason so fuck you
 
+
+> [!INFO] Pearson randomly talks about ringworm specifically for some reason so fuck you
+> 
 they bascicaclly thought ringworm was caused by worms hence the name ringworm but david gruby looked under a microscope to figure out it was microorganisms causing it
-
-baking is the anaerobic respiration that the co2 gas makes to let the dough rise 
-
-glucose => energy + co2 + ethanol
+>- baking is the anaerobic respiration that the co2 gas makes to let the dough rise 
+>- glucose => energy + co2 + ethanol

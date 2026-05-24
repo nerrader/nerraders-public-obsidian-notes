@@ -7,7 +7,6 @@
 ![[Pasted image 20260520200046.png]]
 
 This thing is what makes the Earth's crust materials recyclable and be able to be transformed from one rock to another.
-
 #### Igneous Rocks
 
 These rocks are formed when **magma/lava get cooled down**. This is due to the fact that magma and lava are already mixtures of various substances, so when it is cooled down it just becomes a solid version of that, which is a rock.
