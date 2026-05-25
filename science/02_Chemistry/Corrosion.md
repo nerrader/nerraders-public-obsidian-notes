@@ -16,7 +16,7 @@ Take copper as an example, it slowly oxidizes to carbon carbonate when exposed t
 
 The Statue of Liberty is made out of copper, and is actually a shiny penny color underneath, but due to corrosion, it now looks like more of a greenish-blue, protecting the copper from further damage.
 
-![[Pasted image 20260521212009.png|697]]
+![[statue of liberty.png|697]]
 
 ## Corrosion Prevention Methods
 

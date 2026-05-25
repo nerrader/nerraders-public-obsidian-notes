@@ -3,7 +3,7 @@
 
 ## The Rock Cycle
 
-![[Pasted image 20260520200046.png]]
+![[the rock cycle.png]]
 
 This thing is what makes the Earth's crust materials recyclable and be able to be transformed from one rock to another.
 

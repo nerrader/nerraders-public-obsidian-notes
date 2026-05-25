@@ -9,4 +9,4 @@
 > Unlike bacteria, viruses are not living creatures, therefore they are not in any kingdom.
 
 <span style="opacity:0.1">This is what is shown in the fitri ls presentation, use this for the test, for real knowledge follow the other classifications specified in this note</span>
-![[Pasted image 20260506114141.png]]
+![[virus.png]]

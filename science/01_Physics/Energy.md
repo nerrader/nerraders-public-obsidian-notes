@@ -95,6 +95,8 @@ Learn more about units and SI units [[00_SI Units|here.]]
 >   ($KE_{large} + PE_{large}$)
 > - **Internal Energy ($U$):** Microscopic Kinetic + Microscopic Potential
 >   $$\text{Total Energy } (E) = \underbrace{(KE_{\text{large}} + PE_{\text{large}})}_{\text{Mechanical Energy}} + \underbrace{(KE_{\text{micro}} + PE_{\text{micro}})}_{\text{Internal Energy } (U)}$$
+> This also depends on the temperature, the material it is made from, and it's mass.
+> - **Total Energy**: Mechanical + Internal Energy
 
 ---
 

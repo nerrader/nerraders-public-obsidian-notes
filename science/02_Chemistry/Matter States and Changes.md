@@ -52,7 +52,7 @@ They have a fixed shape and fixed volume, similar to a normal solid.
 
 Phase changes are purely driven by adding or removing thermal energy (heat).
 
-![[Pasted image 20260521160352.png]]
+![[state of matter changes.png]]
 
 ---
 

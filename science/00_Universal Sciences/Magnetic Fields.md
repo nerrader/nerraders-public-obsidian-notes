@@ -12,9 +12,9 @@ Subject: "[Universal Sciences, Physics]"
 
 ### Field Lines
 
-![[Pasted image 20260405201044.png]]
+![[magnetic field.png]]
 
-Field lines are the "vector map" of the force.
+Field lines help visualize the magnetic field.
 
 - Lines exit from the **North Pole** and enter from the **South Pole**.
 - The field is **strongest** at the poles (where the most lines are).

@@ -2,7 +2,7 @@
 >
 > The **Periodic Table** is a tabular display of all known chemical elements. It is organized by **Atomic Number** (number of protons), electron configurations, and recurring chemical properties.
 
-![[Pasted image 20260521140449.png]]
+![[the periodic table.png]]
 
 ---
 
@@ -69,7 +69,7 @@ Non-metals sit on the far right side of the periodic table (plus Hydrogen).
 |          **Electron Affinity**          |       Increases       |     Decreases      |
 | [[Electromagnetism\|Electronegativity]] |       Increases       |     Decreases      |
 |          **Ionization Energy**          |       Increases       |     Decreases      |
-
+![[periodic table trends.png]]
 #### Brief Explanation:
 
 - [[Electromagnetism|Electronegativity:]] Atom's ability to attract and bind with electrons, quantified by the Pauling Scale.

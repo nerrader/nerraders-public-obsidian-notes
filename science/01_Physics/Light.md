@@ -65,4 +65,4 @@ Higher regions = Higher Frequency ($f$), Shorter Wavelength ($\lambda$), and Hig
 | X Ray            | $3 \times 10^{16}$ – $3 \times 10^{19}$   | 10 nm – 0.01 nm |
 | Gamma Ray        | $> 3 \times 10^{19}$                      | $< 0.01$ nm     |
 
-![[Pasted image 20260421165236.png]]
+![[electromagnetic spectrum.png]]

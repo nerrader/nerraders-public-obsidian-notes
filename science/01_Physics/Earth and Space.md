@@ -4,7 +4,11 @@ Subject: "[Physics, Astrology]"
 
 > [!ABSTRACT]+ Introduction
 >
-> Earths movement or orbit around the sun or the solar system, is defined by two cycles: A daily rotation of $360^\circ$ and an annual orbit around the sun. While it feels like we are standing still, Earth is in constant motion.
+> Earths movement or orbit around the sun or the solar system, is defined by two cycles: 
+> - A daily rotation of $360^\circ$, and
+> - An annual orbit around the sun.
+>   
+>While it feels like we are standing still, Earth is in constant motion.
 
 # Solar System Models
 
@@ -16,7 +20,7 @@ The Heliocentric model was found through thorough mathematical observation and b
 
 # Earth's Seasons
 
-![[Pasted image 20260406095021.png]]
+![[earths seasons.png]]
 
 ### The Core Variable: Axial Tilt
 
@@ -25,7 +29,7 @@ The primary cause of seasons is **not distance**, but the **$23.5^\circ$ tilt** 
 - **Tilt Toward Sun:** Concentrated rays + Longer duration = **Summer**.
 - **Tilt Away from Sun:** Spread-out rays + Shorter duration = **Winter**.
 
-<img style="float: left;">![[Pasted image 20260406095228.png]]
+<img style="float: left;">![[the tilt of earth.png]]
 This picture shows how different areas on Earth get hit by different concentrations of the sunrays.
 
 ---
