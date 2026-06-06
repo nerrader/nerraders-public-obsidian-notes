@@ -1,4 +1,0 @@
-- **[[Universal Sciences Hub]]**
-- **[[00_Physics MOC|Physics Hub]]**
-- **[[00_Chemistry MOC|Chemistry Hub]]**
-- **[[00_Biology MOC|Biology Hub]]**

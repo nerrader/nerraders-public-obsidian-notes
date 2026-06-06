@@ -1,5 +1,6 @@
 ---
-Subject: Licenses
+subjects: Licenses
+status: done
 ---
 
                     GNU GENERAL PUBLIC LICENSE

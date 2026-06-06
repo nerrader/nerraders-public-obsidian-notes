@@ -1,5 +1,6 @@
 ---
-Subject: Licenses
+subjects: Licenses
+status: done
 ---
 
 > [!ABSTRACT] Introduction to Open Source Licensing
