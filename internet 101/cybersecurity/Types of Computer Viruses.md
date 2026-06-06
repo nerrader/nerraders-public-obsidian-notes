@@ -1,3 +1,7 @@
+---
+subjects: Cybersecurity
+status: done
+---
 > [!ABSTRACT]+ Quick List of Viruses
 >
 > 1.  [[Types of Computer Viruses#**Ransomware**|Ransomware]]

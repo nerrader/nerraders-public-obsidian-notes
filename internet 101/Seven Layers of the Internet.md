@@ -1,3 +1,7 @@
+---
+subjects: Internet
+status: done
+---
 > [!ABSTRACT] Introduction to the OSI Model
 >
 > The **Open Systems Interconnection (OSI)** model describes **seven layers** that computer systems use to communicate over a network. With each layer having their own specific responsibilities.
