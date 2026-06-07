@@ -138,6 +138,7 @@ $$P = \frac{W}{t}$$
 
 ## Related Topics
 
+- [[Forces and Common Types]]
 - [[Thermal Energy Transfer Methods]]
 - [[Light]]
 - [[Electricity]]

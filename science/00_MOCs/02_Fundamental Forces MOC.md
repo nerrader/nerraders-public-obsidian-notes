@@ -10,5 +10,7 @@ status: done
 -  **[[Weak Nuclear Force]]:** The force responsible for radioactive decay.
 - **[[Strong Nuclear Force]]:** The short-range force holding nuclei together.
 
-**See also:** 
+## Related Topics
+
 - [[01_Physics MOC|Physics MOC]]
+- [[Forces and Common Types]]

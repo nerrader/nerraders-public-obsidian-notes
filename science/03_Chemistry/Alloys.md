@@ -24,7 +24,7 @@ Alloys can be engineered to resist environmental degradation better than pure el
 
 ---
 
-## 🛠️ Common Real-World Examples
+## Common Real-World Examples
 
 - **Steel:** Iron + Carbon (Stronger than pure iron, used for structural beams).
 - **Brass:** Copper + Zinc (Malleable, low friction, used for musical instruments and plumbing).
