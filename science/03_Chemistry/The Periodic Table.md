@@ -3,6 +3,7 @@ subjects:
   - Chemistry
 status: done
 ---
+# The Periodic Table
 > [!ABSTRACT] Definition
 >
 > The **Periodic Table** is a tabular display of all known chemical elements. It is organized by **Atomic Number** (number of protons), electron configurations, and recurring chemical properties.
@@ -44,7 +45,7 @@ There are three main types of elements in the periodic table: metals, semimetals
 
 Metals make up the vast majority of the periodic table. Their uniqueness makes it so that only metals may replace the function of other metals. Most metals also react with oxygen (oxidation), most halogens and other non-metals.
 
-- **Physical Properties:** They are generally shiny, extremely dense, [[Matter States and Changes#1. Solid|solid]] at room temperature, have high melting and boiling points, malleable, and ductile.
+- **Physical Properties:** They are generally shiny, extremely dense, [[States and Changes of Matter#1. Solid|solid]] at room temperature, have high melting and boiling points, malleable, and ductile.
 - **Electrical Properties:** Excellent conductors of both electricity and heat because they have lots of free electrons that can move easily.
 - **Chemical Behavior:** They easily _lose_ electrons when they react with other elements.
 

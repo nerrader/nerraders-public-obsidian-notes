@@ -4,7 +4,7 @@ subjects:
   - Physics
 status: done
 ---
-# What are Magnetic Fields?
+# Magnetic Fields
 
 > [!ABSTRACT] Definition
 >

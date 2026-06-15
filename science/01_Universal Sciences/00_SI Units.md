@@ -2,8 +2,7 @@
 subjects: Universal Sciences
 status: done
 ---
-
-# What are SI Units?
+# SI Units
 
 > [!ABSTRACT] SI Units
 >

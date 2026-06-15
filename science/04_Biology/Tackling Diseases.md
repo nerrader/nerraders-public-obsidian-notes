@@ -3,6 +3,8 @@ subjects:
   - Biology
 status: polishing
 ---
+# Tackling Diseases
+
 A disease is an abnormal condition that negatively affects the structure for function of an organism, often associated with symptoms and signs.
 
 Overuse of antibiotics can cause bacteria to become resistant, making diseases harder and more expensive to treat. This is why alternative treatments should be considered to reduce resistance. Antibiotics are used to kill or inhibit bacteria and treat various infections.

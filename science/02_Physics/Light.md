@@ -43,14 +43,16 @@ $c = 299,792,458m/s$ or $c \approx 3*10^8m/s$
 > - **The Sun:** You see it as it was **8 minutes ago**.
 > - **Proxima Centauri:** You see it as it was **4.2 years ago**.
 
-### Reflection and Refraction
+### Reflection
 
-Reflection is reflection, self explanatory no explanation needed.
-The law of reflection states that: $\theta_i = \theta_r$ (angle of incidence = angle of reflection), so the angles are always equal to each other.
+**The law of reflection** states that the angle of incidence is the same as the angle of reflection, which can be mathematically expressed as $\theta_i = \theta_r$
 
-**Specular reflection** is is the mirror-like reflection of light from a smooth surface, where parallel incident rays are reflected in a single, predictable direction. This is the reason why you can see reflections on bodies of water.
+There are also two main types of reflection: 
 
-**Diffuse reflection** occurs when light strikes a rough surface, causing the rays to scatter in many different directions, which forms a more blurry image than the usual specular reflection.
+- **Specular reflection** is is the mirror-like reflection of light from a smooth surface, where parallel incident rays are reflected in a single, predictable direction. This is the reason why you can see reflections on bodies of water.
+- **Diffuse reflection** occurs when light strikes a rough surface, causing the rays to scatter in many different directions, which forms a more blurry image than the usual specular reflection.
+
+### Refraction 
 
 **Refraction** is the **bending of light** when it passes from one medium to another, like glass to air or air to glass. This is due to the fact that the speed of light changes depending on the optical density, it slows down in mediums like water and speeds up in air.
 

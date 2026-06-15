@@ -3,6 +3,8 @@ subjects:
   - Biology
 status: done
 ---
+# Decomposers
+
 > [!ABSTRACT]
 >
 > Some microorganisms like bacteria and fungi are decomposers, they break down dead organisms and animal waste into simpler [[Organic and Inorganic Materials#Inorganic|inorganic]] materials in a process called decay. This allows substances and wastes in the dead organisms to be recycled, making nutrients available for primary producers.

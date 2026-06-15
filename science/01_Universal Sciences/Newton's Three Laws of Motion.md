@@ -4,6 +4,7 @@ subjects:
   - Physics
 status: done
 ---
+# Newton's Three Laws of Motion
 
 > [!INFO] Introduction
 >

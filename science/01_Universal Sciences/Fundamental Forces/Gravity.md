@@ -5,7 +5,7 @@ subjects:
   - Fundamental Forces
 status: done
 ---
-# What is Gravity
+# Gravity
 
 > [!ABSTRACT] Definition
 > 

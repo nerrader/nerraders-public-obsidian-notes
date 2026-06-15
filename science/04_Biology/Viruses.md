@@ -3,6 +3,8 @@ subjects:
   - Biology
 status: polishing
 ---
+# Viruses
+
 > [!abstract] Introduction
 >
 > Viruses are a type of microscopic infectious agent or [[Pathogens|pathogen]] that can replicate inside cells of living things (aka a host). Viruses are much smaller than bacteria.

@@ -5,7 +5,7 @@ subjects:
   - Fundamental Forces
 status: done
 ---
-# What is Electromagnetism?
+# Electromagnetism
 
 >[!abstract] Definition
 >The **Electromagnetic Force** is one of the four fundamental forces of nature. It acts between particles that possess **electric charge**. It is a long-range force (infinite in theory) that is mediated by the exchange of massless particles called **photons**. It acts upon all particles possessing an electric charge. It is unified into two manifestations: **Electrostatics** (stationary charges) and **Magnetism** (moving charges).
