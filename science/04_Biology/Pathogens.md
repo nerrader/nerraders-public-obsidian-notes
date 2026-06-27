@@ -25,12 +25,15 @@ There are **five main types** of pathogens:
 
 ## Pathogenicity and Virulence
 
+### Pathogenicity
+
 - **Pathogenicity** refers to the qualitative ability of a pathogen or microorganism to cause disease. 
 - Transmission occurs through various pathways, including direct contact, airborne particles, bodily fluids, and contaminated surfaces.
 - Pathogenicity is a binary trait, meaning an organism is either pathogenic (capable of causing disease) or non-pathogenic (avirulent). 
 - This capacity relies on the pathogen's ability to overcome host defense mechanisms, including physical barriers and the immune system.
 
 ---
+### Virulence
 
 - **Virulence** is the quantitative measure of the degree of pathology or the severity of the symptoms caused by the pathogens.
 - Highly virulent pathogens are more likely to cause disease in a healthy host and may lead to multi-organ failure.

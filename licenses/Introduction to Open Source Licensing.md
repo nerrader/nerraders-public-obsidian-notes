@@ -2,6 +2,7 @@
 subjects: Licenses
 status: done
 ---
+# Introduction to Open Source Licensing
 
 > [!ABSTRACT] Introduction to Open Source Licensing
 >
@@ -22,5 +23,26 @@ Permissive licenses are designed to provide maximum freedom to use, distribute, 
 
 Copyleft licenses are designed that you can use, modify, or distribute the code, but you must make the project open source, or give the source code to the original author.
 
-- **Examples:** [[GPL License v3.0]], AGPL, LGPL.
-  These licenses are best for projects where the author wants to ensure the community’s contributions benefit everyone equally. However, these types of licenses usually mean that the project does get less popularity sometimes
+- **Examples:** [[GPL v3.0]], [[AGPL v3.0]], LGPL.
+  These licenses are best for projects where the author wants to ensure the community’s contributions benefit everyone equally. However, these types of licenses usually mean that the project does get less popularity sometimes.
+
+> [!IMPORTANT]
+> 
+> If you are using a license like the ones mentioned above, it is good practice to add a header to each one of your source code files.
+> 
+> For example, the license header for AGPL licensed code is:
+> 
+> <one line to give the program's name and a brief idea of what it does.
+> Copyright (C) {year} {name of author}
+> This program is free software: you can redistribute it and/or modify it under the terms of the
+> GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+> 
+> This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+> without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
+> PURPOSE.
+> 
+ See the GNU Affero General Public License for more details.
+> You should have received a copy of the GNU Affero General Public License along with this
+> program. If not, see <https://www.gnu.org/licenses/>.
+
+

@@ -11,7 +11,8 @@ status: done
 
 There are **technically** four main decomposer types: bacteria, [[Microscopic Fungi|fungi]], insects, and worms.
 
-> [!INFO] There's actually only two main decomposer types
+> [!INFO] The two main decomposer types
+> 
 > While the "four types" model is standard for exams, these are technically split into:
 >
 > - **Saprotrophs (External Digesters):** Bacteria and Fungi.
