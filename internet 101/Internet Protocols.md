@@ -64,7 +64,9 @@ This process ensures both parties are ready to communicate and transfer data.
 **TLS** is a cryptographic protocol designed to provide communications security over a computer network. It sits between the **Transport Layer (TCP)** and the **Application Layer (HTTP)**.
 
 > [!IMPORTANT] **SSL vs. TLS:**
-> SSL (Secure Sockets Layer) is the predecessor to TLS. SSL is now deprecated and insecure. When people say SSL today, they almost always mean TLS
+> SSL (Secure Sockets Layer) is the predecessor to TLS. SSL is now deprecated and insecure. 
+> When people say SSL today, they almost always mean TLS.
+
 
 ### What does TLS do?
 

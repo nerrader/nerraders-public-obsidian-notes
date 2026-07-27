@@ -22,9 +22,7 @@ There are **five main types** of pathogens:
 - **Prions and Viroids:** Prions are misfolded proteins causing neurodegenerative diseases, while viroids are small RNA molecules that primarily infect plants.
 
 ---
-
-## Pathogenicity and Virulence
-
+One of the main characteristics of viruses are it's **pathogenicity** and **virulence**:
 ### Pathogenicity
 
 - **Pathogenicity** refers to the qualitative ability of a pathogen or microorganism to cause disease. 
@@ -39,11 +37,7 @@ There are **five main types** of pathogens:
 - Highly virulent pathogens are more likely to cause disease in a healthy host and may lead to multi-organ failure.
 - Less virulent pathogens might cause only mild illness or no symptoms in some individuals.
 
-## Treatments
-
-(for pearson specifically)
-
-### Antibiotics
+### Antibiotics (For pearson specifically)
 
 A person by the name of Alexander Fleming discovered antibiotics when he found that moldy jelly fungus could kill bacteria, then he made the first antibiotic called penicillin.
 
