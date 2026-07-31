@@ -4,4 +4,4 @@ subjects:
   - Life Processes
 status: todo
 ---
-# Sensitivity
+Sensitivity is one of [[The Seven Fundamental Life Processes]] carried out by an organism.

@@ -2,7 +2,7 @@
 subjects:
   - Biology
   - Life Processes
-status: todo
+status: done
 ---
 The seven life processes are the essential activities all organisms perform to maintain life, grow and reproduce. It is only classified as an organism, if it is capable of carrying out all seven life processes independently.
 

@@ -3,8 +3,6 @@ subjects:
   - Biology
 status: polishing
 ---
-# Unicellular and Multicellular Organisms
-
 > [!ABSTRACT] Introduction
 >
 > Organisms are living things who carry out **seven key processes**: movement, sensitivity, respiration, growth, nutrition, excretion, reproduction.

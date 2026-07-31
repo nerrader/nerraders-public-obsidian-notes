@@ -3,8 +3,6 @@ subjects:
   - Biology
 status: todo
 ---
-# Protocists
-
 These organisms are only made of one cell, they are very different from other organisms, so they are placed in their own kingdom
 
 Categories: Protozoa, algae and molds

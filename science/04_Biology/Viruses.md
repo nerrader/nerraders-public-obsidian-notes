@@ -3,9 +3,7 @@ subjects:
   - Biology
 status: polishing
 ---
-# Viruses
-
-- Viruses are a type of microscopic infectious agent or [[Pathogens|pathogen]] that can replicate inside cells of living things (aka a host). Viruses are much smaller than bacteria.
+Viruses are a type of microscopic infectious agent or [[Pathogens|pathogen]] that can replicate inside cells of living things (aka a host). Viruses are much smaller than bacteria.
 
 - Viruses do not have any cell walls, mitochondria, nucleus, and so they cannot live without being inside a living cell. If the host dies, the virus also dies along with them.
 

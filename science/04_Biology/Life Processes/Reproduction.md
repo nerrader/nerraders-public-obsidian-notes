@@ -2,10 +2,8 @@
 subjects:
   - Biology
   - Life Processes
-status: todo
+status: polishing
 ---
-# Reproduction
-
 Reproduction is one of [[The Seven Fundamental Life Processes]] carried out by an organism. It is a process where organisms produce new individuals known as offspring, inheriting characteristics from the parents via DNA.
 
 This process allows the continuation of a species, which prevents it from extinction, and also allows for more unique variation in organisms.
@@ -21,8 +19,7 @@ However, there are some organisms that are hermaphroditic, meaning that an organ
 
 This process only revolves around one parent, and produces an organism that is genetically identical to the parent. This type of reproduction is usually found in prokaryotes like bacteria, and some eukaryotic organisms too.
 
-There are more ways to reproduce asexually, like:
-
+There are some ways that organisms reproduce asexually, which will be listed down below.
 #### Budding
 
 Budding is a form of asexual interaction, where a small part grows outward from the organism, and with enough time, leads to a separation from the original organism into two individuals. Budding occurs commonly in some invertebrates like hydras and corals.
@@ -44,3 +41,9 @@ Sea stars reproduce primarily with this method, the cutting of a large part of t
 ![[sea star fragmentation example.png]]
 
 Note that in fragmentation, the size of the two individuals can vary, unlike other methods like binary fission where it is usually identical.
+
+## Related Topics
+
+- [[DNA Basics]]
+- [[Hereditary Inheritance]]
+- [[Genes and Alleles]]

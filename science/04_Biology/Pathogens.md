@@ -3,8 +3,6 @@ subjects:
   - Biology
 status: polishing
 ---
-# Pathogens
-
 > [!abstract] Introduction
 >
 > Pathogens, also referred as infectious agents or germs, are biological entities that can invade hosts to replicate and spread, leading to infectious diseases.

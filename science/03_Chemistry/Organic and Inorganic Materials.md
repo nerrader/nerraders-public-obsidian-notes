@@ -4,8 +4,6 @@ subjects:
   - Biology
 status: polishing
 ---
-# Organic and Inorganic Materials
-
 > [!info] Overview
 >
 > In the study of materials science and chemistry, substances are broadly categorized as either **organic** or **inorganic** based on their atomic structure and origin. Understanding this distinction is essential for predicting material behavior, such as thermal stability, reactivity, and electrical properties, and serves as the bridge between basic chemical theory and applied biochemistry.

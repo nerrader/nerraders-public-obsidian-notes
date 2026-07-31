@@ -3,7 +3,6 @@ subjects:
   - Chemistry
 status: done
 ---
-# Oxidation
 
 > [!ABSTRACT] Introduction to Oxidation
 >

@@ -3,13 +3,7 @@ subjects:
   - Chemistry
 status: done
 ---
-# States and Changes of Matter
-
-> [!ABSTRACT] Definition
->
-> **Matter** is anything that has mass and takes up space (volume). Matter can shift between different **States of Matter** based on thermal energy (temperature) and pressure, or transform entirely through chemical reactions.
-
----
+**Matter** is anything that has mass and takes up space (volume). Matter can shift between different **States of Matter** based on thermal energy (temperature) and pressure, or transform entirely through chemical reactions.
 
 ## The 5 States of Matter
 

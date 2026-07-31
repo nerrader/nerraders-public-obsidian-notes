@@ -3,13 +3,9 @@ subjects:
   - Biology
 status: done
 ---
-# Decomposers
+Some microorganisms like bacteria and fungi are decomposers, they break down dead organisms and animal waste into simpler [[Organic and Inorganic Materials#Inorganic|inorganic]] materials in a process called decay. This allows substances in dead organisms to be recycled, making nutrients available for primary producers.
 
-> [!ABSTRACT]
->
-> Some microorganisms like bacteria and fungi are decomposers, they break down dead organisms and animal waste into simpler [[Organic and Inorganic Materials#Inorganic|inorganic]] materials in a process called decay. This allows substances in dead organisms to be recycled, making nutrients available for primary producers.
-
-There are **technically** four main decomposer types: bacteria, [[Microscopic Fungi|fungi]], insects, and worms.
+While there are **technically** four main decomposer types: bacteria, [[Microscopic Fungi|fungi]], insects, and worms.
 
 > [!INFO] The two main decomposer types
 > 

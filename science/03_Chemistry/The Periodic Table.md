@@ -3,7 +3,7 @@ subjects:
   - Chemistry
 status: done
 ---
-# The Periodic Table
+
 > [!ABSTRACT] Definition
 >
 > The **Periodic Table** is a tabular display of all known chemical elements. It is organized by **Atomic Number** (number of protons), electron configurations, and recurring chemical properties.

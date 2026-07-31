@@ -4,6 +4,4 @@ subjects:
   - Life Processes
 status: todo
 ---
-# Movement
-
-Movement is one of the seven fundamental life processes for organisms, 
+Movement is one of [[The Seven Fundamental Life Processes]] carried out by an organism.

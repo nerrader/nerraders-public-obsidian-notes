@@ -4,4 +4,4 @@ subjects:
   - Life Processes
 status: todo
 ---
-# Excretion
+Excretion is one of [[The Seven Fundamental Life Processes]] carried out by an organism.

@@ -4,4 +4,4 @@ subjects:
   - Life Processes
 status: todo
 ---
-# Growth
+Growth is one of [[The Seven Fundamental Life Processes]] carried out by an organism.
