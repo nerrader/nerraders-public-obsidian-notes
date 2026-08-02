@@ -1,4 +1,9 @@
-## CC Codes
+---
+subjects:
+  - Licenses
+status: done
+---
+
 
 > [!CAUTION] Don't use CC Licenses for software/source code licensing.
 > 
