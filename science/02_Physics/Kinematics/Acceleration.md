@@ -4,6 +4,3 @@ subjects:
   - Kinematics
 status: todo
 ---
-# Acceleration
-
-> [!ABSTRACT] Introduction
