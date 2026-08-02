@@ -9,8 +9,6 @@ status: done
 > [!IMPORTANT] **SSL vs. TLS:**
 > SSL (Secure Sockets Layer) is the predecessor to TLS. SSL is now deprecated and insecure. 
 > When people say SSL today, they almost always mean TLS.
-
-
 ### What does TLS do?
 
 1. **Encryption:** Hides the data from third parties.
@@ -24,7 +22,7 @@ The TLS Connection is initiated using a sequence called the TLS Handshake.
 Before data is sent, the client and server must agree on how to talk. This happens in three main phases:
 
 - Specify which version of TLS they will use
-- Decide on which cipher suites (see below) they will use
+- Decide on which cipher suites they will use
 - Authenticate the identity of the server using the server's TLS certificate
 - Generate session keys for encrypting messages between them after the handshake is complete
 

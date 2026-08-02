@@ -2,7 +2,7 @@
 subjects:
   - Physics
   - Kinematics
-status: todo
+status: done
 ---
 Speed is described as how **fast an object is moving**, and it's SI unit is $m/s$. 
 
