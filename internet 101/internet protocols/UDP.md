@@ -6,8 +6,9 @@ status: done
 ---
 The UDP protocol is a **connectionless and lightweight** transport layer protocol that allows applications to send messages (datagrams) with **minimal overhead**.
 
-Unlike [[TCP]], it does not guarantee delivery or order, making it significantly **faster**. However, it doesn't check if the data actually reached the destination making it **significantly more unreliable** than [[TCP]]. This speed makes it the primary choice for **real-time applications** like **video streaming, online gaming, VoIP (Voice over IP), and DNS lookups**, where speed is prioritized over perfect accuracy or when perfect accuracy is not needed.
+However, unlike [[TCP]], it does not guarantee delivery or order, making it significantly faster, and also significantly more unreliable.
 
+Due to the significant speed, it is also the primary choice for real-time applications like video streaming, online gaming, and DNS lookups. These do not require the reliability of TCP.
 ## What makes UDP Faster
 
 Unlike TCP’s structured handshake, UDP simplifies the communication process by skipping the connection setup entirely, the sender simply just starts pushing packets to the destination IP and port without verifying if the receiver is online or ready.

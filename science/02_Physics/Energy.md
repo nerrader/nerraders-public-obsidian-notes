@@ -3,13 +3,7 @@ status: done
 subjects:
   - Physics
 ---
-# What is Energy?
-
-> [!ABSTRACT] Definition
-> **Energy** is defined as the quantitative property or capacity of a physical system to **do work** or cause change.
->
-> Modern civilization is possible because people have learned how to change energy from one form to another and then use it to do work. We use energy for a variety of things, such as transportation, cooking and refrigerating food, lighting our homes and offices, manufacturing products, and even sending astronauts into space.
-
+**Energy** is defined as the quantitative property or capacity of a physical system to **do work** or cause change.
 ### The Law of Conservation of Energy
 
 In a physical isolated system, energy is a conserved quantity. The **Law of Conservation of Energy** states that **energy cannot be created or destroyed, only transformed** from one state to another.

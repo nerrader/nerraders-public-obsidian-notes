@@ -2,16 +2,13 @@
 subjects: Physics
 status: done
 ---
-# Introduction
 
-> [!ABSTRACT] Introduction to Thermal Energy Transfer Methods
->
-> There are three main ways to transfer [[Energy|energy]] via heating:
->
-> - Conduction
-> - Convection
-> - Radiation
-> - Evaporation \[Pearson only]
+
+ There are three main ways to transfer [[Energy|energy]] via heating:
+- Conduction
+- Convection
+- Radiation
+- Evaporation \[Pearson only]
 
 ## Conduction
 

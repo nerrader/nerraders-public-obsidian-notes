@@ -3,9 +3,7 @@ subjects:
   - Chemistry
 status: polishing
 ---
-> [!ABSTRACT] Introduction to Catalysts
->
-> Catalysts are substances that can speed up a reaction without being permanently damaged or changed. It is for this reason that only a small amount is needed, as it can be reused repeatedly.
+Catalysts are substances that can speed up a reaction without being permanently damaged or changed. It is for this reason that only a small amount is needed, as it can be reused repeatedly.
 
 > [!info] Why don't we just use larger amounts?
 >

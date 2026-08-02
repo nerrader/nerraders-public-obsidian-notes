@@ -6,7 +6,7 @@ status: done
 ---
 The TCP protocol is responsible for **reliable and ordered delivery** of data streams between applications running on hosts communicating via an IP network.
 
-This protocol is somewhat **slower** compared to the other transport layer protocols like [[UDP]], however it is much more **reliable for sending data**, making sure that packets arrive and send data correctly. Because of the reliability, this protocol is used for **websites, web browsing, emails, and file transfers** just to name a few.
+This protocol is somewhat **slower** compared to the other transport layer protocols like [[UDP]]. Though, it is much more **reliable for sending data**, making sure that packets arrive and send data correctly. Because of the reliability, this protocol is used for **websites, web browsing, emails, and file transfers** just to name a few.
 
 ### TCP Handshake
 

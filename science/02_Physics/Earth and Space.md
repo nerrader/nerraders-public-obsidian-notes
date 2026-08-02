@@ -4,8 +4,6 @@ subjects:
   - Astrology
 status: done
 ---
-# Earth and Space
-
 > [!ABSTRACT]+ Introduction
 >
 > Earths movement or orbit around the sun or the solar system, is defined by two cycles: 

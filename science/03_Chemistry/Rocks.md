@@ -3,8 +3,7 @@ subjects:
   - Chemistry
 status: done
 ---
-> [!ABSTRACT] What are Rocks?
-> Rocks are naturally occurring solid mixture grains containing minerals or organic matter.
+Rocks are naturally occurring solid mixture grains containing minerals or organic matter.
 
 ## The Rock Cycle
 

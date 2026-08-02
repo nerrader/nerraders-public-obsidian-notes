@@ -4,13 +4,9 @@ subjects:
   - Physics
 status: done
 ---
-# Mass and Weight
+**Mass** is the amount of matter in an object, while **Weight** is the gravitational force acting on that mass. They are related by the formula for [[Newton's Three Laws of Motion#**2. Newton's Second Law (Law of Force and Acceleration) ** | Newton's Second Law]] $(\sum F = ma)$
 
-> [!ABSTRACT] Summary
->
-> **Mass** is the amount of matter in an object, while **Weight** is the gravitational force acting on that mass. They are related by the formula for [[Newton's Three Laws of Motion#**2. Newton's Second Law (Law of Force and Acceleration) ** | Newton's Second Law]] $(\sum F = ma)$
-
-### 1. Mass ($m$)
+### Mass ($m$)
 
 Mass is a **Scalar** quantity. It is an **constant** property of an object that describes its **Inertia** (resistance to acceleration).
 
@@ -18,7 +14,7 @@ The **SI Unit** for Mass is a **kilogram (kg)**
 
 ---
 
-### 2. Weight ($W$ or $F_g$)
+### Weight ($W$ or $F_g$)
 
 Weight is a **Vector** quantity. It is the measure of the pull of [[Gravity]] on a mass. Weight always points toward the center of the planet/star. Weight is the result of mass being put in a gravitational field, if the gravitational field strength in your area is zero, your weight is also zero regardless of mass.
 

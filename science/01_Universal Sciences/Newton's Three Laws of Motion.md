@@ -4,11 +4,7 @@ subjects:
   - Physics
 status: done
 ---
-# Newton's Three Laws of Motion
-
-> [!INFO] Introduction
->
-> The laws of motion, developed by Isaac Newton, describes the fundamental relationship between an object's motion, and the forces acting upon it.
+The laws of motion, developed by Isaac Newton, describes the fundamental relationship between an object's motion, and the forces acting upon it.
 
 ### **1. Newton's First Law (Law of Inertia):** 
 

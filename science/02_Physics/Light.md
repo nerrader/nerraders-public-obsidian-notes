@@ -3,19 +3,15 @@ subjects:
   - Physics
 status: done
 ---
-# Introduction to Light
+ We see things when light waves reflect off surfaces and enter our eyes. Light is an electromagnetic wave, and it doesn't require a medium to travel unlike sound, which allows it to travel even through the vacuum of space.
+ 
+ Light also acts like an energy carrier, as when light hits a material, the energy can be used up in three ways:
+ 
+ - **Reflection:** Light bounces off the surface
+ - **Absorption:** Light energy is taken in, causing particles to vibrate faster and generate **heat**.
+- **Transmission:** Light passes through the material.
 
-> [!ABSTRACT] Introduction
->
-> We see things when light waves reflect off surfaces and enter our eyes. Light is an electromagnetic wave, and it doesn't require a medium to travel unlike sound, which allows it to travel even through the vacuum of space.
->
-> Light also acts like an energy carrier, as when light hits a material, the energy can be used up in three ways:
->
-> - **Reflection:** Light bounces off the surface
-> - **Absorption:** Light energy is taken in, causing particles to vibrate faster and generate **heat**.
-> - **Transmission:** Light passes through the material.
->
-> Everything can either reflect, absorption, or transmit light [[Energy|energy]]. Its just that some materials reflect or absorb more than the others.
+Everything can either reflect, absorption, or transmit light [[Energy|energy]]. Its just that some materials reflect or absorb more than the others.
 
 > [!EXAMPLE]-
 > | Material | Reflection Level | Absorption Level | Transmission Level
