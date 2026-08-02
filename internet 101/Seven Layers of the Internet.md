@@ -18,7 +18,7 @@ The Application Layer serves as the interface between the end-user applications 
 
 Key functionalities of the Application Layer include resource sharing, remote file access, and network management.
 
-Examples of protocols operating at the Application Layer include [[Internet Protocols#HTTP (Hypertext Transfer Protocol)|The HTTP Protocol]] for web browsing, [[Internet Protocols#FTP (File Transfer Protocol)|File Transfer Protocol (FTP)]] for file transfers, [[Internet Protocols#SMTP (Simple Mail Transfer Protocol)|Simple Mail Transfer Protocol (SMTP)]] for email services, and [[DNS Addresses and Servers|Domain Name System (DNS)]] for resolving domain names to [[Internet Protocols#IP (Internet Protocol)|IP addresses]].
+Examples of protocols operating at the Application Layer include [[HTTP|The HTTP Protocol]] for web browsing, [[FTP|File Transfer Protocol (FTP)]] for file transfers, [[SMTP|SMTP (Simple Mail Transfer Protocol)]] for email services, and [[DNS Addresses and Servers|Domain Name System (DNS)]] for resolving domain names to [[IP|IP addresses]].
 
 These protocols ensure that user applications can effectively communicate with each other and with servers over a network.
 
@@ -49,14 +49,14 @@ Protocols operating at the Session Layer include Remote Procedure Call (RPC), wh
 The Transport Layer provides end-to-end communication services for applications. It ensures complete data transfer, error recovery, and flow control between hosts.
 This layer segments and reassembles data for efficient transmission and provides reliability with error detection and correction mechanisms.
 
-Protocols at this layer include the [[Internet Protocols#TCP (Transmission Control Protocol)|Transmission Control Protocol (TCP)]] and the [[Internet Protocols#UDP (User Datagram Protocol)|User Datagram Protocol (UDP)]].
+Protocols at this layer include the [[TCP|Transmission Control Protocol (TCP)]] and the [[UDP|User Datagram Protocol (UDP)]].
 
 TCP is connection-oriented and ensures reliable data transfer with error checking and flow control, making it suitable for applications like web browsing and email.
 UDP is connectionless, offering faster, though less reliable, transmission, suitable for applications like video streaming and online gaming.
 
 > [!INFO]+ The Extra QUIC (HTTP/3) Protocol
 >
-> The [[Internet Protocols#QUIC (Quick UDP Internet Connections)|Quick UDP Internet Connections (QUIC)]] protocol is a newer protocol that is built on top of the [[Internet Protocols#UDP (User Datagram Protocol)|UDP Protocol]] instead of the [[Internet Protocols#TCP (Transmission Control Protocol)|TCP Protocol]].
+> The [[QUIC|Quick UDP Internet Connections (QUIC)]] protocol is a newer protocol that is built on top of the [[UDP|UDP Protocol]] instead of the [[TCP|TCP Protocol]].
 >
 > This protocol combines the speed of UDP with the reliability and security of **TLS 1.3** encryption used by the TCP Protocol that is integrated directly into the transport layer.
 
