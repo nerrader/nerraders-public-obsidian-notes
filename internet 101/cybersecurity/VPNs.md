@@ -1,4 +1,0 @@
----
-subjects: Cybersecurity
-status: todo
----

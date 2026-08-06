@@ -2,15 +2,11 @@
 subjects: Internet
 status: done
 ---
-# What is the OSI Model?
+ The **Open Systems Interconnection (OSI)** model describes **seven layers** that computer systems use to communicate over a network. With each layer having their own specific responsibilities.
 
-> [!ABSTRACT] The OSI Model
->
-> The **Open Systems Interconnection (OSI)** model describes **seven layers** that computer systems use to communicate over a network. With each layer having their own specific responsibilities.
->
-> Each layer of the OSI model interacts with the layer directly above and below it, encapsulating and transmitting data in a structured manner. This approach helps network professionals troubleshoot issues, as problems can be isolated to a specific layer.
->
-> While the internet now uses the the **TCP/IP model**, the OSI model still serves as a **universal language** for **networking**, providing a common ground for different systems to communicate effectively.
+Each layer of the OSI model interacts with the layer directly above and below it, encapsulating and transmitting data in a structured manner. This approach helps network professionals troubleshoot issues, as problems can be isolated to a specific layer.
+
+While the internet now uses the the **TCP/IP model**, the OSI model still serves as a **universal language** for **networking**, providing a common ground for different systems to communicate effectively.
 
 ## 7. Application Layer
 
