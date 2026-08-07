@@ -2,6 +2,7 @@
 subjects:
   - Internet
   - Internet Protocols
+  - Computers
 status: done
 ---
 The UDP protocol is a **connectionless and lightweight** transport layer protocol that allows applications to send messages (datagrams) with **minimal overhead**.

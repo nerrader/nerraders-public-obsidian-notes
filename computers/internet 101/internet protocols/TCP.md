@@ -2,6 +2,7 @@
 subjects:
   - Internet
   - Internet Protocols
+  - Computers
 status: done
 ---
 The TCP protocol is responsible for **reliable and ordered delivery** of data streams between applications running on hosts communicating via an IP network.

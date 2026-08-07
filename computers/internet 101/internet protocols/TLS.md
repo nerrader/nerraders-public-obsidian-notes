@@ -2,6 +2,7 @@
 subjects:
   - Internet
   - Internet Protocols
+  - Computers
 status: done
 ---
 **TLS** is a cryptographic protocol designed to provide communications security over a computer network. It sits between the **Transport Layer (TCP)** and the **Application Layer (HTTP)**.

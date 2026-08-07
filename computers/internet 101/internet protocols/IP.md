@@ -2,6 +2,7 @@
 subjects:
   - Internet
   - Internet Protocols
+  - Computers
 status: done
 ---
 **The IP protocol** is one of the most fundamental protocols across the internet, key features of this protocol include:

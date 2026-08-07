@@ -1,5 +1,7 @@
 ---
-subjects: Cybersecurity
+subjects:
+  - Cybersecurity
+  - Computers
 status: done
 ---
 > [!ABSTRACT]+ Quick List of Viruses

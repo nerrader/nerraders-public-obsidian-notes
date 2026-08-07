@@ -2,6 +2,7 @@
 subjects:
   - Internet
   - Internet Protocols
+  - Computers
 status: done
 ---
 **HTTP (Hypertext Transfer Protocol)** is an application-layer protocol for data communication on the **World Wide Web**, enabling the exchange of hypertext documents and resources between [[Clients, APIs, Servers|clients]] and [[Clients, APIs, Servers|servers.]]

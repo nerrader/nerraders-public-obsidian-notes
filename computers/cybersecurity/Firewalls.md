@@ -1,4 +1,6 @@
 ---
-subjects: Cybersecurity
+subjects:
+  - Cybersecurity
+  - Computers
 status: todo
 ---
