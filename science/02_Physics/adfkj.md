@@ -2,7 +2,6 @@
 
 Physics is the study of matter, energy, and how they interact. It’s the foundation for everything else.
 
--  Speed, Velocity, and Acceleration.
 - Sound & Electricity
 - **Waves:**
     - The Electromagnetic Spectrum (Light, Radio, X-rays).
