@@ -1,3 +1,7 @@
+---
+subjects: Licenses
+status: done
+---
 GNU Affero General Public License
 =================================
 

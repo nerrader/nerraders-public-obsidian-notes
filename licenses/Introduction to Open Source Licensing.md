@@ -2,13 +2,9 @@
 subjects: Licenses
 status: done
 ---
-# Introduction to Open Source Licensing
+ **Open source licenses** are legal documents that grant users the right to use, modify, and share software code, which is otherwise restricted by default copyright laws.
 
-> [!ABSTRACT] Introduction to Open Source Licensing
->
-> **Open source licenses** are legal documents that grant users the right to use, modify, and share software code, which is otherwise restricted by default copyright laws.
->
-> Choosing a license is **critical** because **omitting one legally prevents others from using or modifying your code**, while selecting an incompatible license can create compliance risks or force you to open-source your entire proprietary project if you use strong copyleft dependencies.
+Choosing a license is practically necessary because **omitting one legally prevents others from using or modifying your code**, while selecting an incompatible license can create compliance risks or force you to open-source your entire project if you use strong copyleft dependencies.
 
 For open source projects, you will usually come across licenses that fall into these two categories:
 
@@ -26,7 +22,7 @@ Copyleft licenses are designed that you can use, modify, or distribute the code,
 - **Examples:** [[GPL v3.0]], [[AGPL v3.0]], LGPL.
   These licenses are best for projects where the author wants to ensure the community’s contributions benefit everyone equally. However, these types of licenses usually mean that the project does get less popularity sometimes.
 
-> [!IMPORTANT]
+> [!IMPORTANT] Add Headers for Copyleft Files
 > 
 > If you are using a license like the ones mentioned above, it is good practice to add a header to each one of your source code files.
 > 

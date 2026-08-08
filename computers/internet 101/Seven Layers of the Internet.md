@@ -4,7 +4,7 @@ subjects:
   - Computers
 status: done
 ---
- The **Open Systems Interconnection (OSI)** model describes **seven layers** that computer systems use to communicate over a network. With each layer having their own specific responsibilities.
+The **Open Systems Interconnection (OSI)** model describes **seven layers** that computer systems use to communicate over a network. With each layer having their own specific responsibilities.
 
 Each layer of the OSI model interacts with the layer directly above and below it, encapsulating and transmitting data in a structured manner. This approach helps network professionals troubleshoot issues, as problems can be isolated to a specific layer.
 
