@@ -3,11 +3,10 @@ subjects:
   - Biology
 status: polishing
 ---
-> [!abstract] Introduction
->
-> Pathogens, also referred as infectious agents or germs, are biological entities that can invade hosts to replicate and spread, leading to infectious diseases.
->
-> You typically need a microscope to see these pathogens, as they are usually extremely small, even microscopic.
+
+Pathogens, also referred as infectious agents or germs, are biological entities that can invade hosts to replicate and spread, leading to infectious diseases.
+
+You typically need a microscope to see these pathogens, as they are usually extremely small, even microscopic.
 
 ## Types of Pathogens
 
