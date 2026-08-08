@@ -3,8 +3,6 @@ subjects:
   - Physics
 status: done
 ---
-# Conductors and Insulators
-
 > [!ABSTRACT] Introduction
 >
 > Conductors and insulators are a fundamental concept in energy, and electrical work.

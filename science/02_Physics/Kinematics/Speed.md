@@ -7,7 +7,7 @@ status: done
 Speed is described as how **fast an object is moving**, and it's SI unit is $m/s$. 
 
 - Speed is calculated using the formula $speed = \frac{distance}{time}$
-- Unlike velocity, which is a [[Scalar and Vector Quantities#Vector Quantities (Magnitude + Direction)|vector quantity]]. Speed is a [[Scalar and Vector Quantities#Scalar Quantities (Magnitude)|scalar quantity]], meaning it has no direction, only magnitude.
+- Unlike velocity, which is a [[Types of Quantities#Vector Quantities|vector quantity]]. Speed is a [[Types of Quantities#Scalar Quantities|scalar quantity]], meaning it has no direction, only magnitude.
 
 ---
 

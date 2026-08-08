@@ -1,4 +1,4 @@
-### Scalar Quantities (Magnitude)
+### Scalar Quantities
 
 A scalar quantity is a value that is fully described by a **number** (magnitude) and a **unit**.
 
@@ -12,7 +12,7 @@ A scalar quantity is a value that is fully described by a **number** (magnitude)
 
 ---
 
-### Vector Quantities (Magnitude + Direction)
+### Vector Quantities
 
 A vector is a value that requires both a **number** (magnitude) and a **specific direction**.
 

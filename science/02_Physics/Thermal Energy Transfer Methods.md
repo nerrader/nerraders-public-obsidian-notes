@@ -2,9 +2,7 @@
 subjects: Physics
 status: done
 ---
-
-
- There are three main ways to transfer [[Energy|energy]] via heating:
+There are three main ways to transfer [[Energy|energy]] via heating:
 - Conduction
 - Convection
 - Radiation

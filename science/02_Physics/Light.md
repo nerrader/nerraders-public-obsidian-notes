@@ -3,7 +3,7 @@ subjects:
   - Physics
 status: done
 ---
- We see things when light waves reflect off surfaces and enter our eyes. Light is an electromagnetic wave, and it doesn't require a medium to travel unlike sound, which allows it to travel even through the vacuum of space.
+We see things when light waves reflect off surfaces and enter our eyes. Light is an electromagnetic wave, and it doesn't require a medium to travel unlike sound, which allows it to travel even through the vacuum of space.
  
  Light also acts like an energy carrier, as when light hits a material, the energy can be used up in three ways:
  

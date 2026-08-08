@@ -19,7 +19,7 @@ $\sum F$ = sum of forces (N)
 
 ## 2. Law of Force and Acceleration
 
-The force acting on an object is equal to the mass of that object multiplied by its acceleration. This law establishes that acceleration is directly proportional to the net force applied and inversely proportional to the object's mass, with both force and acceleration being [[00_SI Units#Scalar and Vector Quantities|vector quantities]]. 
+The force acting on an object is equal to the mass of that object multiplied by its acceleration. This law establishes that acceleration is directly proportional to the net force applied and inversely proportional to the object's mass, with both force and acceleration being [[Types of Quantities#Vector Quantities|vector quantities]].
 
 This law can also be expressed mathematically as:
 

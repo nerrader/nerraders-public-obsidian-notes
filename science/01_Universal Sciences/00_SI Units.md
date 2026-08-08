@@ -2,8 +2,6 @@
 subjects: Universal Sciences
 status: done
 ---
-# SI Units
-
 > [!ABSTRACT] SI Units
 >
 > The International System of Units (SI Units) is the global standard for measurement. It is the modern form of the metric system and the world's most widely used system of measurement. It ensures consistency across science, industry, and commerce worldwide.
