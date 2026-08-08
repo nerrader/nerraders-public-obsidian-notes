@@ -2,7 +2,7 @@
 subjects:
   - Physics
   - Kinematics
-status: todo
+status: done
 ---
 Velocity is a [[Types of Quantities#Vector Quantities|vector quantity]] that describes both the speed and direction of an object.
 

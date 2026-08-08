@@ -2,7 +2,7 @@
 subjects:
   - Physics
   - Kinematics
-status: todo
+status: done
 ---
 Displacement is the change in position of an object. It is the distance between it's initial position and its final position. Unlike distance, which measures its total path length travelled.
 
