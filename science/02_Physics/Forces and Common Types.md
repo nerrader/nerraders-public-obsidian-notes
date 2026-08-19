@@ -38,6 +38,5 @@ All these other common **emergent** forces are just derived from the four fundam
 ## Related Topics
 
 - [[02_Fundamental Forces MOC]]
-- [[Forces and Common Types]]
 - [[Newton's Three Laws of Motion]]
 - [[Energy]]
