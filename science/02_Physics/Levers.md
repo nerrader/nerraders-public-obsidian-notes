@@ -5,7 +5,7 @@ Levers are something that you can push on to move an object, they typically cons
 - the effort: the force you apply to the lever
 - the pivot: point where the lever rotates, also interchangeable with 'fulcrum'
 
-![[Pasted image 20260819200043.png]]
+![[load and effort example.png]]
 
 ## Moments
 
@@ -20,7 +20,7 @@ If a lever is straight and balanced, that means the clockwise moment is equal to
 
 ## Lever Classes
 
-![[Pasted image 20260819200151.png]]
+![[classes of levers example.png]]
 
 thats all you gotta know
 
