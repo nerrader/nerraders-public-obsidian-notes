@@ -43,7 +43,7 @@ Kinetic energy is the energy an object possesses due to its motion. It increases
 $$KE = \frac{1}{2}mv^2$$
 
 - **$m$**: Mass of the object (**kg**)
-- **$v$**: Velocity or speed of the object (**m/s**)
+- **$v$**: Speed of the object (**m/s**)
 
 The other energy types we are about to discuss are just derived from these two.
 
@@ -100,20 +100,6 @@ Learn more about units and SI units [[00_SI Units|here.]]
 > - **Total Energy**: Mechanical + Internal Energy
 
 ---
-
-## Work and Power
-
-### \*\*Work ($W$)
-
-**Work** is the process of transferring energy by applying a force to move an object over a distance.
-$$W = F \cdot d$$
-
-- **$F$ (Force):** How hard you push/pull (Newtons).
-- **$d$ (Displacement):** How far the object moved (Meters).
-- **Unit:** Joule ($J$). _Notice that 1 Joule of Work is exactly equal to 1 Joule of Energy used._
-
-This means you can push an extremely heavy object as hard as you can but it still didn't move, physics still says you did no work at all, as displacement is zero.
-
 ### **Power ($P$)**
 
 **Power** in physics is defined as the **rate at which work is done** or the **rate at which energy is transferred or converted**. It quantifies how quickly energy is used, delivered, or transformed over a specific time interval.

@@ -1,5 +1,12 @@
+---
+subjects:
+  - Physics
+  - Simple Machines
+status: done
+---
+Levers are a type of [[00_Simple Machines|simple machine]].
 
-Levers are something that you can push on to move an object, they typically consist of three main things:
+They are something that you can push on to move an object, they typically consist of three main things:
 
 - the load: what you're trying to move
 - the effort: the force you apply to the lever
@@ -29,10 +36,8 @@ basically:
 - Second Class: load in the middle
 - Third Class: effort in the middle
 
-## Lever Multipliers
+## How levers achieve Mechanical Advantage
 
-A lever can act as either a force multiplier, or a distance multiplier
+Basically if there is a higher distance between the effort and the pivot, you will need less force to push the load. This is because the effort produces a larger moment around the pivot point.
 
-A force multiplier is when the distance from the effort to the pivot point is higher, so that there is less force needed to move the load.
-
-A distance multiplier is the opposite of a force multiplier, it is when the distance from the load to the pivot point is higher, which does allow it to move further/faster, but you do need more force to push it.
+For example, if the effort is three times further from the pivot than the load is to the pivot, then the mechanical advantage would be 3.
