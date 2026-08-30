@@ -19,7 +19,10 @@ Genes are sequences or segments of DNA. These contain instructions for cells for
 
 Alleles are different variations of the same gene which produce different variations of that gene trait. This is also the reason why genetic diversity exists.
 
-There are also two types of alleles: the dominant allele, and the recessive allele. If there is a dominant allele, it is usually expressed and will mask/hide the trait of the recessive allele. However, there is a way of codominance where both traits or alleles are expressed at the same time.
+There are also two types of alleles: the dominant allele (A), and the recessive allele (a). If there is a dominant allele, it is usually expressed and will mask/hide the trait of the recessive allele. However, there is a way of codominance where both traits or alleles are expressed at the same time.
+
+**Heterozygous** alleles mean that the allele pair has both a dominant and recessive gene (Aa)
+**Homogenous** alleles mean that the allele pair has the same type. (aa or AA)
 ## Genotypes and Phenotypes
 
 - Genotypes describe the individual's genetic makeup, or the set of alleles it carries. This represents the underlying DNA sequence.
