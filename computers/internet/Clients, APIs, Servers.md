@@ -2,7 +2,7 @@
 subjects:
   - Internet
   - Computers
-status: todo
+status: done
 ---
 These three concepts are extremely important in web development.
 

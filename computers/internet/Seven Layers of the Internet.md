@@ -2,7 +2,7 @@
 subjects:
   - Internet
   - Computers
-status: done
+status: polishing
 ---
 The **Open Systems Interconnection (OSI)** model describes **seven layers** that computer systems use to communicate over a network. With each layer having their own specific responsibilities.
 
@@ -16,7 +16,7 @@ The Application Layer serves as the interface between the end-user applications 
 
 Key functionalities of the Application Layer include resource sharing, remote file access, and network management.
 
-Examples of protocols operating at the Application Layer include [[HTTP|The HTTP Protocol]] for web browsing, [[FTP|File Transfer Protocol (FTP)]] for file transfers, [[SMTP|SMTP (Simple Mail Transfer Protocol)]] for email services, and [[DNS Addresses and Servers|Domain Name System (DNS)]] for resolving domain names to [[IP|IP addresses]].
+Examples of protocols operating at the Application Layer include [[HTTP|The HTTP Protocol]] for web browsing, [[FTP|File Transfer Protocol (FTP)]] for file transfers, [[SMTP|SMTP (Simple Mail Transfer Protocol)]] for email services, and [[DNS|Domain Name System (DNS)]] for resolving domain names to [[IP|IP addresses]].
 
 These protocols ensure that user applications can effectively communicate with each other and with servers over a network.
 
