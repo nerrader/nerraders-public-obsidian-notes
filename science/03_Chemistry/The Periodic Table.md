@@ -8,17 +8,12 @@ The **Periodic Table** is a tabular display of all known chemical elements. It i
 ![[the periodic table.png]]
 
 ---
+## Structure
 
-## Structure of the Periodic Table
-
-#### Groups (Columns)
-
-- There are **18 groups**.
+- There are **18 groups**, aka 18 rows.
 - Elements in the same group have the same number of **valence electrons**.
 - Elements in a group share similar chemical properties.
-
-#### Periods (Rows)
-
+  
 - There are **7 periods**.
 - Elements in the same period have the same number of **electron shells**.
 - As you move from left to right, the atomic number ($Z$) increases by 1.
@@ -60,7 +55,7 @@ Non-metals sit on the far right side of the periodic table (plus Hydrogen).
 
 - **Physical Properties:** They have zero metallic luster. If they are solid, they are incredibly brittle. Many prominent non-metals are gases at room temperature.
 - **Electrical Properties:** Terrible conductors of heat and electricity. They act as insulators.
-- **Chemical Behavior:** They like to _gain_ or share electrons when reacting.
+- **Chemical Behavior:** They like to gain or share electrons when reacting.
 
 ---
 
@@ -85,11 +80,13 @@ Non-metals sit on the far right side of the periodic table (plus Hydrogen).
 Group families are basically the same thing as periodic table groups but just given a name.
 
 - **Group 1 (Alkali Metals):** Highly reactive, they only have one valence electron.
-    > [!caution] hydrogen can go kys
-    >
-    > it is a non metal gas not an alkali metal but for some reason the scientists decided to put it there so blame them not me
-    >
-    > just know that its not in the alkali metals family
+
+> [!caution] hydrogen can go kys
+>
+> it is a non metal gas not an alkali metal but for some reason the scientists decided to put it there so blame them not me
+>
+> just know that its not in the alkali metals family
+
 - **Group 2 (Alkaline Earth Metals):** The less reactive version of the alkali metals, they have two valence electrons.
 - **Groups 3-12 (Transition Metals):** The metals in the middle, their valence electron configurations are flexible meaning they have various charges.
 - **Group 17 (Halogens):** Most reactive non metals.

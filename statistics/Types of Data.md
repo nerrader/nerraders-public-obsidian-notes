@@ -1,6 +1,4 @@
-
 There are two fundamental types of data: **qualitative**, and **quantitative**.
-
 ## Quantitative Data
 
 Quantitative data represents numbers or measurements, which can be manipulated using basic arithmetic to perform calculations and find patterns.

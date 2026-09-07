@@ -3,11 +3,9 @@ subjects:
   - Chemistry
 status: done
 ---
-> [!ABSTRACT] Introduction to Corrosion
->
-> Corrosion is a natural process that degrades polished metals into oxides, sulfides, or hydroxides via chemical or electrochemical reactions, usually resulting in the loss of favorable properties.
+Corrosion is a natural process that degrades polished metals into oxides, sulfides, or hydroxides via chemical or electrochemical reactions, usually resulting in the loss of favorable properties.
 
-## Rusting (Iron & Steel Only)
+## Rusting
 
 Rusting is a specific type of corrosion that only applies to **Iron** and **Steel**
 $$\text{Iron} + \text{Water} \rightarrow \text{Iron Oxide} + \text{Hydrogen}$$
