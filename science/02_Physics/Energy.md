@@ -88,7 +88,7 @@ Electromagnetic energy that travels in transverse waves.
 - **Kilowatt-hour (kWh)**: Commonly used for electrical billing.
 - **British Thermal Unit (BTU)**: Used in heating and cooling industries.
 
-Learn more about units and SI units [[00_SI Units|here.]]
+Learn more about units and SI units [[SI Units|here.]]
 
 > [!INFO]+ **Mechanical Energy vs Internal Energy vs Total Energy**
 >

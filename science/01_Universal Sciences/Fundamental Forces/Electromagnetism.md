@@ -5,9 +5,11 @@ subjects:
   - Fundamental Forces
 status: done
 ---
-The **Electromagnetic Force** is one of the four fundamental forces of nature. It acts between particles that possess **electric charge**. 
-- It is a long-range force (infinite in theory) that is mediated by the exchange of massless particles called **photons**. It acts upon all particles possessing an electric charge.
-- It is unified into two manifestations: **Electrostatics** (stationary charges) and **Magnetism** (moving charges).
+The **Electromagnetic Force** is one of the four fundamental forces of nature. It acts between particles that possess **electric charge**.
+
+Electromagnetism is about the combination of electrostatics (stationary charges), and magnetism (moving charges).
+
+It is also long-range force (infinite in theory) that is mediated by the exchange of massless particles called **photons**. It acts upon all particles possessing an electric charge.
 
 ## Electricity
 
@@ -20,7 +22,7 @@ Electromagnetism is a pretty abstract force, so let's just start from the more b
 > - **Cation**s are **positively charged** ions 
 > - **Anion**s are **negatively charged** ions. 
 >   
-> **Ionization** is the name of the process of adding or removing electrons to make a electric charge. However, you can't remove or manipulate the number of protons in any way, as they are 'glued' in the nucleus of the atom due to the [[Strong Nuclear Force]].
+> **Ionization** is the name of the process of adding or removing electrons to make a electric charge. However, you can't remove or manipulate the number of protons in any way, due to the [[Strong Nuclear Force]].
 > 
 > But even though neutral atoms have no electric charge, they still interact via magnetism because their internal charges attract and repel each other at close ranges. (Van der Waals forces)
 
@@ -36,8 +38,6 @@ $$F = k_e \frac{q_1 q_2}{r^2}$$
 **$k_e$**: Coulomb's constant ($\approx 8.99 \times 10^9 \text{ N}\cdot\text{m}^2/\text{C}^2$).
 <span style="opacity:0.1;">gravitys constant is fucking negative so this is a huge upgrade</span>
 
-If you want to learn more about electricity in general, click [[Electricity|here.]]
-
 ## Magnetism
 
 Magnetism is what occurs when electric charges are **in motion**. If a charge is standing still, it has no magnetic properties. The moment it moves, a **magnetic field $(B)$ is generated.**
@@ -51,8 +51,6 @@ Because these lines never end, **there are no magnetic monopoles.** You cannot h
 
 Magnetic force actually doesn't pull charges toward it. Instead, it instead pushes them **perpendicular** to their motion. If a charge moves North through a field pointing East, the force pushes the charge up.
 
-To learn more about magnetic fields, click [[Magnetic Fields|here.]]
-
 > [!abstract] How Magnets Actually Pull
 > 
 > Since magnetism is just a **sideways force**, they pull because of the way the electrons are oriented, all those millions of "sideways" pushes on the individual electrons eventually add up to a single **net force** that moves the entire physical magnetic object toward the other one.
@@ -61,7 +59,8 @@ To learn more about magnetic fields, click [[Magnetic Fields|here.]]
 This is where the two concepts merge. They are not two different forces, but they are instead part of the unified **Electromagnetic Field**.
 
 A changing electric field creates a magnetic field, and a changing magnetic field creates an electric field (Electromagnetic Induction).
-#### Lorentz Force Law
+### Lorentz Force Law
+
 Describes the total force ($F$) on a point charge ($q$) moving with velocity ($v$) through an electric field ($E$) and a magnetic field ($B$).
 
 $$F = q(E + v \times B)$$
@@ -76,3 +75,7 @@ A vibrating electric field creates a vibrating magnetic field, which creates ano
 >
 >Some of these electromagnetic waves can be visible by the naked eye, creating light.
 
+## Related Notes
+
+- [[Electricity]]
+- [[Magnetic Fields]]

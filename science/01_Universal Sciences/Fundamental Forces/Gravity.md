@@ -7,14 +7,14 @@ status: done
 ---
 Gravity ($F_g$) is a universal force that pulls two objects with mass towards each other. Gravity is one of the **[[02_Fundamental Forces MOC|Four Fundamental Forces of Nature]]**.
 
-### The Mechanics of Attraction
+## The Mechanics of Attraction
 
 - **Direction:** Always directed toward the **center of mass** (the core).
 - **Measurement:** Distance ($r$) between two objects is always measured from **center-to-center**, not from the surfaces.
 - The more mass, and the less distance (from the core), the more powerful gravity is.
 
 This means that every thing in the Universe, including the microorganisms, are technically attracting everything else. It's just that the gravity is not powerful enough for us to 'feel' it.
-### Gravitational Fields
+## Gravitational Fields
 
 The "Field" is the region of space where an object experiences a gravitational pull.
 

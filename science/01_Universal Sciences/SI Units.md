@@ -24,16 +24,16 @@ In the SI system, there are seven base units, the other units are just derived f
 
 Because scientists deal with things that are incredibly small (atoms) and incredibly large (planets), we use prefixes to change the scale or multiplier without changing the unit.
 
-| **Prefix** | **Symbol** | **Multiplier**  | **Power of 10** |     |
-| ---------- | ---------- | --------------- | --------------- | --- |
-| **Giga**   | $G$        | $1,000,000,000$ | $10^9$          |     |
-| **Mega**   | $M$        | $1,000,000$     | $10^6$          |     |
-| **Kilo**   | $k$        | $1,000$         | $10^3$          |     |
-| _(Base)_   | —          | $1$             | $10^0$          |     |
-| **Centi**  | $c$        | $0.01$          | $10^{-2}$       |     |
-| **Milli**  | $m$        | $0.001$         | $10^{-3}$       |     |
-| **Micro**  | $\mu$      | $0.000001$      | $10^{-6}$       |     |
-| **Nano**   | $n$        | $0.000000001$   | $10^{-9}$       |     |
+| **Prefix** | **Symbol** | **Multiplier**  | **Power of 10** |
+| ---------- | ---------- | --------------- | --------------- |
+| **Giga**   | $G$        | $1,000,000,000$ | $10^9$          |
+| **Mega**   | $M$        | $1,000,000$     | $10^6$          |
+| **Kilo**   | $k$        | $1,000$         | $10^3$          |
+| _(Base)_   | —          | $1$             | $10^0$          |
+| **Centi**  | $c$        | $0.01$          | $10^{-2}$       |
+| **Milli**  | $m$        | $0.001$         | $10^{-3}$       |
+| **Micro**  | $\mu$      | $0.000001$      | $10^{-6}$       |
+| **Nano**   | $n$        | $0.000000001$   | $10^{-9}$       |
 
 > [!EXAMPLE]-
 >
@@ -69,7 +69,5 @@ There are also some units derived from the base SI Units. The most common derive
 >
 > - If the problem gives you **grams**, convert to **kg**.
 > - If it gives you **cm**, convert to **m**.
->
->     <span style="color: red">**Failing to do so will result in a miscalculation!**</span>
 
 
