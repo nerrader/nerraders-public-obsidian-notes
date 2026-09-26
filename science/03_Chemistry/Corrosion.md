@@ -3,7 +3,7 @@ subjects:
   - Chemistry
 status: done
 ---
-Corrosion is a natural process that degrades polished metals into oxides, sulfides, or hydroxides via chemical or electrochemical reactions, usually resulting in the loss of favorable properties.
+Corrosion is a natural process that degrades polished metals into oxides, sulfides, or hydroxides via [[Chemical Reactions]], usually resulting in the loss of favorable properties.
 
 ## Rusting
 
@@ -24,6 +24,10 @@ The Statue of Liberty is made out of copper, and is actually a shiny penny color
 ## Corrosion Prevention Methods
 
 1. **Barrier Methods:** Coating the metal to keep oxygen/water out (Painting, oiling, plastic coating).
-2. **Sacrificial Protection:** Attaching a more reactive metal (like [[Magnesium]] or Zinc) so the oxygen reacts with that metal instead of the iron.
+2. **Sacrificial Protection:** Attaching a more reactive metal (like Magnesium or Zinc) so the oxygen reacts with that metal instead of the iron.
 3. **Galvanizing:** Coating iron in a layer of Zinc (combines both barrier and sacrificial methods).
 4. Creating [[Alloys]]: Creating new mixtures of substances meant to combat corrosion.
+
+## Related Notes
+
+- [[Oxidation]]

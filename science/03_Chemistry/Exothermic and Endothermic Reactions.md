@@ -1,9 +1,9 @@
 ---
 subjects:
   - Chemistry
-status: todo
+status: done
 ---
-Chemical reactions can be classified by whether they release or absorb energy. There are two main types of energy changes: exothermic and endothermic.
+[[Chemical Reactions]] can be classified by whether they release or absorb energy. There are two main types of energy changes: exothermic and endothermic.
 
 - Exothermic reactions release energy into their surroundings, usually as heat. This usually makes the surroundings warmer.
 - Endothermic reactions absorb energy from their surroundings, usually heat energy, which make the surroundings colder.
