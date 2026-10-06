@@ -61,3 +61,7 @@ $\sigma = \sqrt{\frac{\sum_{i=1}^{N}(x_i-\mu)^2}{N}}$
 The reason sample standard deviation is divided by $n-1$ and not $N$ is due to Bessel's correction.
 
 tbh i have no clue how it works just know that if youre using a sample you have to divide by $n-1$
+
+## Related Notes
+
+- [[Measures of Central Tendency]]
