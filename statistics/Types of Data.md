@@ -6,7 +6,7 @@ Quantitative data represents numbers or measurements, which can be manipulated u
 This type of data can be further grouped into two types:
 
 - **Continuous**: This contains measurable values (e.g. hair length, temperature, body weight)
-- **Discrete: This contains countable** values (e.g. number of employees, number of patients)
+- **Discrete:** This contains countable values (e.g. number of employees, number of patients)
 
 > [!CAUTION] Quantitative Discrete ≠ Discontinuous Variation
 > 
