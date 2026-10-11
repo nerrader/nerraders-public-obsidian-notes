@@ -12,7 +12,7 @@ The study of how the universe works, including the interaction of matter, energy
 - [[Forces and Common Types]]
 - [[Work]]
 - [[Friction]]
-  
+---
 - [[Mass and Weight]]
 - [[Types of Quantities]]
 - [[SI Units]]

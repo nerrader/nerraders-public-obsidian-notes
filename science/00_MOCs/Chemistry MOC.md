@@ -9,12 +9,13 @@ The study of matter, their properties, and how it's transformed.
 - [[00_Introduction to Matter]]
 - [[States of Matter]]
 - [[Changes of Matter]]
-
-## Atoms and Elements
+## Atom Fundamentals
 
 - [[Atoms]]
+- [[Molecules]]
+- [[Compounds]]
+- [[Elements]]
 - [[The Periodic Table]]
-
 ## Chemical Reactions
 
 - [[Chemical Reactions]]
@@ -23,18 +24,17 @@ The study of matter, their properties, and how it's transformed.
 - [[Oxidation]]
 - [[Corrosion]]
 - [[Catalysts]]
-
 ## Materials
 
 - [[Alloys]]
 - [[Organic and Inorganic Materials]]
 - [[Rocks]]
-
 ## Acids and Bases
 
-- [[The pH Level]]
-
+- [[The pH Scale]]
 ## Related Concepts
 
 - [[Energy]]
 - [[Conductors and Insulators]]
+- [[Changes of Matter]]
+- [[States of Matter]]

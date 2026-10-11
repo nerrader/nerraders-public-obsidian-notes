@@ -20,12 +20,9 @@ The **Periodic Table** displays all known chemical elements. It is organized by 
 - Atomic number, number of protons.
 - Name of the elemnt
 - Symbol
-- Atomic Mass: Average mass number of the atom's isotopes
+- Atomic Mass, average mass of the element's isotopes.
 
 For more information, go to [[Atoms]].
-
----
-
 ## Types of Elements
 
 There are three main types of elements in the periodic table: metals, semimetals, and nonmetals.
@@ -52,9 +49,6 @@ Non-metals sit on the far right side of the periodic table (plus Hydrogen).
 
 - Physical Properties: They are brittle when solid. Many non-metals are gases at room temperature.
 - Electrical Properties: They are insulators.
-
----
-
 ## Periodic Trends
 
 |                **Trend**                | **Across a Period →** | **Down a Group ↓** |
