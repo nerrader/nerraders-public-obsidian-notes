@@ -22,7 +22,7 @@ The **Periodic Table** displays all known chemical elements. It is organized by 
 - Symbol
 - Atomic Mass: Average mass number of the atom's isotopes
 
-For more information, go to [[Atoms and Elements]].
+For more information, go to [[Atoms]].
 
 ---
 

@@ -12,7 +12,7 @@ The study of matter, their properties, and how it's transformed.
 
 ## Atoms and Elements
 
-- [[Atoms and Elements]]
+- [[Atoms]]
 - [[The Periodic Table]]
 
 ## Chemical Reactions

@@ -19,15 +19,6 @@ There are some characteristics these control:
 
 Protons and Neutrons and glued together with the [[Strong Nuclear Force]].
 Electrons however, are not, meaning they can be lost/gained much more easily.
-## Elements
-
-Elements are pure substances, consisting of atoms with the same atomic number.
-They are also represented by a unique chemical symbol.
-
-Examples:
-- $O$ -> Oxygen, with an atomic number of 8, meaning it has 8 protons.
-- $Fe$ -> Iron, with an atomic number of 26, meaning it has 26 protons.
-
 ## Related Notes
 
 - [[The Periodic Table]]

@@ -10,11 +10,6 @@ Matter is anything that has **mass** and takes up **space (volume)**. Matter can
 > - They will become superconductors (no electrical resistance), and fluids will become superfluids (no viscosity aka no fluid friction)
 
 ---
-
-
-
----
-
 ## Types of Changes
 
 #### Physical Changes
