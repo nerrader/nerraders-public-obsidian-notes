@@ -1,5 +1,0 @@
----
-subjects:
-  - Physics
-status: todo
----

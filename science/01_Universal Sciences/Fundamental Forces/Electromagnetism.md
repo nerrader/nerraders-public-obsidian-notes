@@ -18,7 +18,7 @@ Electromagnetism is a pretty abstract force, so let's just start from the more b
 > [!abstract] Atomic Neutrality and Ions
 > Atoms are usually neutral, that means that the number of protons is equal to the number of electrons, the positive and negative charges from the proton and electron cancel out and net charge becomes zero.
 > 
-> Ions are atoms that have an electric charge due to having a proton electron imbalance.
+> Ions are atoms that have an [[Electric Charge]] due to having a proton electron imbalance.
 > - **Cation**s are **positively charged** ions 
 > - **Anion**s are **negatively charged** ions. 
 >   

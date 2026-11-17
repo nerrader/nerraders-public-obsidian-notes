@@ -22,3 +22,4 @@ Electrons however, are not, meaning they can be lost/gained much more easily.
 ## Related Notes
 
 - [[The Periodic Table]]
+- [[Electric Charge]]
